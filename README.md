@@ -2,7 +2,7 @@
 
 ## Our Contention: Web Search is Primitive
 
-Everyone knows that [Google](https://google.com/) rules the world when it comes to internet search. Sure, Microsoft has [Bing](https://bing.com/) but it isn't expected to pose a real threat to Google's world domination...and while privacy-centric search engines such as [DuckDuckGo](https://duckduckgo.com/) are seeing a surge in traffic they aren't expected to pose a real challenge to Google.
+Everyone knows that [Google](https://google.com/) rules the world when it comes to internet search. Sure, Microsoft has [Bing](https://bing.com/) but it isn't expected to pose a real threat to Google's world domination...and while privacy-centric search engines such as [DuckDuckGo](https://duckduckgo.com/) are seeing a surge in traffic they aren't expected to pose a real challenge to Google either.
 
 Many would say that this is because Google is _the best_ at what it does. That they have combined the lessons learned over the past thirty years to create a search engine that cannot be significantly improved on. **That is a load of crap**.
 

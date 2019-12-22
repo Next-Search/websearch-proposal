@@ -26,6 +26,7 @@ We've found it difficult to find a comprehensive source of information on the hi
   * Allows querying to return results from the full-text of pages.
 * 1994 - July - **Michael Loren Mauldin's Lycos** is released.
   * Offered prefix matching and word proximity in ranking.
+  * Origins at Carnegie Mellon University.
 * 1995 - **Yahoo! Search** is launched, allows searching of the directory, does not utilize a crawler.
 * 1995 - **LookSmart** is released as a web directory.
 * 1995 - October - **Excite** officially launches.
@@ -35,6 +36,7 @@ We've found it difficult to find a comprehensive source of information on the hi
 * 1996 - **Robin Li** create the **RankDex** site-scoring algorithm.
   * It used hyperlinks to rank sites.
 * 1996 - **Excite** acquires **Magellan**.
+* 1996 - **Dogpile** launches as a meta search engine.
 * 1996 - January-March - **Larry Page** and **Sergey Brin** begin work on **Google**'s predecessor, **BackRub**.
 * 1996 - May - **Inktomi** releases its **HotBot** search engine.
 * 1996 - October - **Gary Culliss** and **Steven Yang** work at MIT on a "popularity engine" which becomes **Direct Hit Technologies** search engine.
@@ -101,15 +103,19 @@ We've found it difficult to find a comprehensive source of information on the hi
   * Supports additional tags that sites can use to convey information to engines better.
 * 2012 - January - **Google** launches **Search Plus Your World** which integrates social data into one's query results.
 * 2012 - May - **Microsoft** adds social data functionality to **Bing**.
-* 2012 - My - **Google** releases **Knowledge Graph**.
+* 2012 - May - **Google** releases **Knowledge Graph**.
+* 2013 - **Yahoo** closes **AltaVista**.
 * 2014 - **Yahoo** closes **Yahoo! Directory.**
 * 2017 - March - **ODP/DMoZ** is shut down.
 
 ## Bibliography
 
-* Aaron Wall. [Search Engine History](http://www.searchenginehistory.com/). 2017.
+We've attempted to be somewhat comprehensive in our bibliography. Resources we found particularly helpful are marked with an \*.
+
+* Aaron Wall. [Search Engine History](http://www.searchenginehistory.com/). 2017.\*
 * Wikipedia
-  * [Timeline of Web Search Engines](https://en.wikipedia.org/wiki/Timeline_of_web_search_engines)
+  * [Timeline of Web Search Engines](https://en.wikipedia.org/wiki/Timeline_of_web_search_engines)\*
   * [Excite](https://en.wikipedia.org/wiki/Excite)
   * [Robots Exclusion Standard](https://en.wikipedia.org/wiki/Robots_exclusion_standard)
+* Joel Lee. [7 Search Engines That Rocked Before Google Even Exists](https://www.makeuseof.com/tag/7-search-engines-that-rocked-before-google-even-existed/). Mashable, 2015.
 

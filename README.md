@@ -8,5 +8,7 @@ Many would say that this is because Google is _the best_ at what it does. That t
 
 Throughout our proposal we will elucidate the ways in which Google is weak and the ways in which the search engine of the future can blow Google out of the water.
 
-At this point in time we are looking to garner feedback on our proposal - consider it a Request For Comments \(RFC\) - so that we can refine and improve upon our proposal. We don't claim to know the perfect way to create a search engine...but we do know how to build one much better than Google.
+At this point in time we are looking to garner feedback on our proposal - consider it a Request For Comments \(RFC\) - so that we can refine and improve upon our proposal. We don't claim to know the perfect way to create a search engine...but we are confident we can build one much better than Google.\[^1\]
+
+\[^1\]We have great admiration for the geniuses over at Google but believe that the business suffers from some fundamental flaws.
 

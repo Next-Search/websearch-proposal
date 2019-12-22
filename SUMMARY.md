@@ -12,4 +12,5 @@
 * [9. Advanced Beyond Our Years](8.-advanced.md)
 * [10. Company Culture](9.-company-culture.md)
 * [Conclusion](conclusion.md)
+* [Recommended Reading / Resources](recommended-reading-resources.md)
 

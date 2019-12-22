@@ -12,8 +12,12 @@
 
 ## How Search Engines Work
 
+* [Apache Lucene](http://lucene.apache.org/)
+  * Provides indexing and searching capabilities, often paired with Nutch.
 * [Apache Nutch](http://nutch.apache.org/)
   * One of the more mature open source web crawlers.
+* [Apache Solr](http://lucene.apache.org/solr/)
+  * Built on top of Lucene, requires less work to get started.
 * Muuo Wambua's [Build Yourself a Mini Search Engine](https://www.cs.toronto.edu/~muuo/blog/build-yourself-a-mini-search-engine/) \(2018\).
   * Uses Apache Nutch and Solr.
 

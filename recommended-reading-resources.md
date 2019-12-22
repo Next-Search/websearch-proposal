@@ -13,7 +13,7 @@
 ## How Search Engines Work
 
 * Sergey Brin and Lawrence Page's [The Anatomy of a Large-Scale Hypertext Web Search Engine](http://infolab.stanford.edu/~backrub/google.html).
-  * A seminal paper on web search written by the founders of Google.
+  * A summary version of the seminal paper on web search written by the co-founders of Google.
 * [Apache Lucene](http://lucene.apache.org/)
   * Provides indexing and searching capabilities, often paired with Nutch.
 * [Apache Nutch](http://nutch.apache.org/)

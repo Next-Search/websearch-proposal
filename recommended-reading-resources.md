@@ -1,8 +1,4 @@
-# Recommended Reading / Resources
-
-## Social Enterprises
-
-* [What is a Social Enterprise?](https://socialenterprise.us/about/social-enterprise/)
+# Recommended Reading & Resources
 
 ## History of Search
 
@@ -13,4 +9,15 @@
   * [List of Search Engines](https://en.wikipedia.org/wiki/List_of_search_engines)
   * [List of Defunct Internet Search Engines](https://en.wikipedia.org/wiki/Category:Defunct_internet_search_engines)
 * Aaron Wall's [Search Engine History](http://www.searchenginehistory.com/)
+
+## How Search Engines Work
+
+* [Apache Nutch](http://nutch.apache.org/)
+  * One of the more mature open source web crawlers.
+* Muuo Wambua's [Build Yourself a Mini Search Engine](https://www.cs.toronto.edu/~muuo/blog/build-yourself-a-mini-search-engine/) \(2018\).
+  * Uses Apache Nutch and Solr.
+
+## Social Enterprises
+
+* [What is a Social Enterprise?](https://socialenterprise.us/about/social-enterprise/)
 

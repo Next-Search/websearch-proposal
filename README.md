@@ -1,4 +1,4 @@
-# Introduction
+# 0.0 Introduction
 
 ## Our Contention: Web Search is Primitive
 
@@ -9,6 +9,14 @@ Many would say that this is because Google is _the best_ at what it does. That o
 Throughout our proposal we will elucidate the ways in which Google is weak and the ways in which the search engine of the future can blow Google out of the water.
 
 At this point in time we are looking to garner feedback on our proposal - consider it a Request For Comments \(RFC\) - so that we can refine and improve upon our proposal. We don't claim to know the perfect way to create a search engine...but we are confident we can build one that is far superior to what exists today.\[^2\]
+
+## Contact Us
+
+We'd love to hear from you! You can reach us by:
+
+* Email: nextsearch@protonmail.com
+* Twitter: [nextwebsearch](https://twitter.com/nextwebsearch)
+* GitHub: [nextsearch](https://github.com/nextsearch/)
 
 \[^1\]: There are several engines for whom we have significant admiration, including DDG. We know that they have other differentiating factors but we believe these are not significant enough to overtake Google.  
 \[^2\]: We have great admiration for the geniuses over at Google, they have brought many significant search innovations to the world but we believe that their fundamental reliance on machines as arbitrators of value is misplaced.

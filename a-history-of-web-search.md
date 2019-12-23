@@ -6,30 +6,38 @@ We've found it difficult to find a comprehensive source of information on the hi
 
 ## 1990-1999
 
-* 1992 - **Tim Berners-Lee** found the **Virtual Library** \(VLib\), an early web directory.
+* 1992 - **Tim Berners-Lee** found the [**The WWW Virtual Library** \(VLib\)](http://vlib.org/), an early web directory.
   * It was curated by a group of experts in their respective fields.
-* 1993 - May - **O'Reilly Media** launches **Global Network Navigator \(GNN\)**, a web directory.
+* 1993 - May - **O'Reilly Media** launches [**Global Network Navigator \(GNN\)**](https://www.oreilly.com/gnn/), a web directory.
   * 1996 - **AOL** acquires and closes **GNN**.
 * 1993 - June - **Graham Spencer**, **Joe Kraus**, **Mark VanHaren**, **Ryan McIntyre**, **Ben Lutch**, and **Martin Reinfried** work on **Architext** which will eventually become the search engine **Excite**.
 * 1993 - September - **Oscar Nierstrasz** creates the first web search engine, **W3Catalog**.
   * Used existing lists of websites, did not crawl. Was too aggressive in its accessing of sites and caused performance slowdowns.
-* 1993 - October/November - **Martijn Koster** creates **Aliweb**.
+* 1993 - October/November - **Martijn Koster** creates [**Aliweb**](http://aliweb.com/).
   * No crawler, requires sites to be submitted to the engine for inclusion.
 * 1993 - December - **Jonathan Fletcher** creates **JumpStation** which utilizes a crawler, indexer, and search interface - the three components that make up modern web search.
-* 1994 - January - **EINet Galaxy**, a web directory, launches.
+  * 1994 - Unable to secure funds for the search engine, development is discontinued.
+* 1994 - January - [**EINet Galaxy**](https://www.einet.net/), a web directory, launches.
 * 1994 - January - **Jerry Yang** and **David Filo** co-found **Yahoo Directory**.
   * Includes human created descriptions of each site.
-  * 1995 - **Yahoo Search** is launched, allows searching of the directory, does not utilize a crawler.
-* 1994 - January - **Infoseek** launches.
+  * 1995 - [**Yahoo Search**](https://yahoo.com/) is launched, allows searching of the directory, does not utilize a crawler.
+* 1994 - January - **Infoseek**, founded by **Steve Kirsch** launches.
+  * 1995 - **Netscape** makes Infoseek the default search engine in their browser.
+  * 1999 - **Disney** acquires Infoseek.
+  * 2001 - Disney closes Infoseek.
 * 1994 - February - **Martijn Koster** proposes the **Robots Exclusion Standard**.
-* 1994 - March - **World-Wide Web Worm** is released.
+* 1994 - March - **Oliver McBryan's World-Wide Web Worm** is released.
   * Supports use of regular expressions in queries.
-* 1994 - April - **Brian Pinkerton's WebCrawler** is released.
+  * 1997 - Acquired by **GoTo.com**.
+* 1994 - April - **Brian Pinkerton's** [**WebCrawler**](http://www.webcrawler.com/) is released.
   * Allows querying to return results from the full-text of pages.
-  * 1997 - **Excite** acquires **WebCrawler** from **AOL**.
-* 1994 - July - **Michael Loren Mauldin's Lycos** is released.
+  * 1995 - **AOL** acquires WebCrawler.
+  * 1997 - **Excite** acquires WebCrawler from AOL.
+  * 2001 - Excite changes WebCrawler from using its own engine to pulling Excite's results.
+* 1994 - July - **Michael Loren Mauldin's** [**Lycos**](https://www.lycos.com/) is released.
   * Offered prefix matching and word proximity in ranking.
   * Origins at Carnegie Mellon University.
+  * 2001 - Lycos switches from internal search index to using **Fast**.
 * 1995 - **LookSmart** is released as a web directory.
   * 2002 - **LookSmart** begins charging per click for sites in its directory, rapidly loses populari
 * 1995 - October - **Excite** officially launches.
@@ -48,13 +56,15 @@ We've found it difficult to find a comprehensive source of information on the hi
 * 1996 - October - **Gary Culliss** and **Steven Yang** work at MIT on a "popularity engine" which becomes **Direct Hit Technologies** search engine.
   * Uses previous search selection stats to determine rank.
   * 1998 - August - **Direct Hit Technologies** releases their search engine.
+* 1997 - **FAST** is founded, **Arne Halaas** and **John M. Lervik** are two of the core contributors, the latter becomes CEO.
+  * 2003 - FAST sells its search related business to **Overture**.
 * 1997 - April - **Ask Jeeves \(Ask.com\)** is released.
   * Uses natural language for queries, ranks links by popularity.
   * Also used human editors to improve search rsults.
   * 2005 - March - **IAC** acquires **Ask Jeeves.**
 * 1997 - September - **Arkady Volozh and Ilya Segalovich** launch **Yandex**, a Russion search engine.
 * 1998 - **Bill Gross** launches **GoTo**, which will become **Overture**.
-  * 2003 - **Yahoo** buys **Overture Services.**
+  * 2003 - **Yahoo** buys **Overture.**
 * 1998 - June - **Rich Skrenta** and **Bob Truel** launch **Gnuhoo** which is later named the **Open Director Project/DMoZ.**
   * Run by volunteers.
   * 1998 - November - **Netscape** acquires **ODP/DMoZ**.
@@ -65,13 +75,17 @@ We've found it difficult to find a comprehensive source of information on the hi
 
 ## 2000-2009
 
-* 2000 - January - **Robin Li** launches **Baidu**, a Chinese search engine.
+* 2000 - January - **Robin Li** and **Li Hanyong** launch **Baidu**, a Chinese search engine.
 * 2000 - **Google** launches **AdWords** and **Google Toolbar**.
 * 2000 - **Teoma** search engine is released.
   * Uses clustering to determine subject specific popularity.
 * 2001 - **Ask Jeeves** acquires **Teoma**.
 * 2001 - May - **Magellan** is closed down.
 * 2002 - **LookSmart** acquires **WiseNut**, a search engine.
+* 2003 - **Amazon** launches **A9.com**.
+  * The technology behind Amazon.com
+  * 2004 - A9 launches a web search engine.
+  * 2008 - Web Search Engine is discontinued.
 * 2003 - **Google** launches **AdSense**.
 * 2003 - **Overture Services** buys **AltaVista** and **AlltheWeb**.
 * 2003 - **Yahoo** begins using its own crawler \(**Yahoo Slurp**\).
@@ -120,7 +134,13 @@ We've attempted to be somewhat comprehensive in our bibliography. Resources we f
 * Wikipedia
   * [Timeline of Web Search Engines](https://en.wikipedia.org/wiki/Timeline_of_web_search_engines)\*
   * [Timeline of Google Search](https://en.wikipedia.org/wiki/Timeline_of_Google_Search)\*
+  * [A9.com](https://en.wikipedia.org/wiki/A9.com)
   * [Excite](https://en.wikipedia.org/wiki/Excite)
+  * [Inktomi](https://en.wikipedia.org/wiki/Infoseek)
+  * [JumpStation](https://en.wikipedia.org/wiki/JumpStation)
+  * [Microsoft Development Center Norway \(FAST\)](https://en.wikipedia.org/wiki/Microsoft_Development_Center_Norway).
   * [Robots Exclusion Standard](https://en.wikipedia.org/wiki/Robots_exclusion_standard)
+  * [WebCrawler](https://en.wikipedia.org/wiki/WebCrawler)
+  * [World Wide Web Worm](https://en.wikipedia.org/wiki/World_Wide_Web_Worm)
 * Joel Lee. [7 Search Engines That Rocked Before Google Even Exists](https://www.makeuseof.com/tag/7-search-engines-that-rocked-before-google-even-existed/). Mashable, 2015.
 

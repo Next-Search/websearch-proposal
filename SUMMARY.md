@@ -18,4 +18,5 @@
 * [B. A History of Web Search](a-history-of-web-search.md)
 * [C. The Current Search Landscape](c.-the-current-search-landscape.md)
 * [D. Just Getting Started](d.-just-getting-started.md)
+* [E. FAQ](e.-faq.md)
 

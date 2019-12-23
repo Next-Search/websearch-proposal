@@ -1,4 +1,4 @@
-# Recommended Reading & Resources
+# A. Recommended Reading & Resources
 
 ## History of Search
 

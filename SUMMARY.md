@@ -13,6 +13,9 @@
 * [9. Advanced Beyond Our Years](8.-advanced.md)
 * [10. Company Culture](9.-company-culture.md)
 * [Conclusion](conclusion.md)
-* [Recommended Reading & Resources](recommended-reading-resources.md)
-* [A History of Web Search](a-history-of-web-search.md)
+* [Appendixes](appendixes.md)
+* [A. Recommended Reading & Resources](recommended-reading-resources.md)
+* [B. A History of Web Search](a-history-of-web-search.md)
+* [C. The Current Search Landscape](c.-the-current-search-landscape.md)
+* [D. Just Getting Started](d.-just-getting-started.md)
 

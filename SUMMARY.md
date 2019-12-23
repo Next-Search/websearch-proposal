@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [0. Introduction](README.md)
+* [0.1 Is It Really That Bad?](0.1-is-it-really-that-bad.md)
 * [1. For the Public Good](1.-for-the-public-good.md)
 * [2. No Really, That Open](1.-really-that-open.md)
 * [3. You Own Your Data](2.-you-own-your-data.md)

@@ -38,8 +38,14 @@ We've found it difficult to find a comprehensive source of information on the hi
   * Offered prefix matching and word proximity in ranking.
   * Origins at Carnegie Mellon University.
   * 2001 - Lycos switches from internal search index to using **Fast**.
-* 1995 - **LookSmart** is released as a web directory.
-  * 2002 - **LookSmart** begins charging per click for sites in its directory, rapidly loses populari
+* 1995 - [**LookSmart**](https://www.looksmart.com/) is released as a web directory.
+  * Founded by **Evan Thornley** and **Tracy Ellery**.
+  * 1999 - **Microsoft** agrees to use LookSmart results for five years.
+  * 2000 - Both **Juno Online Services** and **AltaVista** begin using LookSmart.
+  * 2000 - October - LookSmart acquires **Zeal**, a web directory.
+  * 2002 - **LookSmart** begins charging per click for sites in its directory, rapidly loses popularity.
+  * 2002 - **LookSmart** acquires **WiseNut**, a search engine.
+  * 2003 - October - Microsoft will not renew its agreement with LookSmart.
 * 1995 - October - **Excite** officially launches.
   * 2001 - October - **Excite** files for bankruptcy, **InfoSpace** will eventually acquire Excite.
 * 1995 - December - **Altavista** is launched.
@@ -81,7 +87,6 @@ We've found it difficult to find a comprehensive source of information on the hi
   * Uses clustering to determine subject specific popularity.
 * 2001 - **Ask Jeeves** acquires **Teoma**.
 * 2001 - May - **Magellan** is closed down.
-* 2002 - **LookSmart** acquires **WiseNut**, a search engine.
 * 2003 - **Amazon** launches **A9.com**.
   * The technology behind Amazon.com
   * 2004 - A9 launches a web search engine.
@@ -138,6 +143,7 @@ We've attempted to be somewhat comprehensive in our bibliography. Resources we f
   * [Excite](https://en.wikipedia.org/wiki/Excite)
   * [Inktomi](https://en.wikipedia.org/wiki/Infoseek)
   * [JumpStation](https://en.wikipedia.org/wiki/JumpStation)
+  * [LookSmart](https://en.wikipedia.org/wiki/LookSmart)
   * [Microsoft Development Center Norway \(FAST\)](https://en.wikipedia.org/wiki/Microsoft_Development_Center_Norway).
   * [Robots Exclusion Standard](https://en.wikipedia.org/wiki/Robots_exclusion_standard)
   * [WebCrawler](https://en.wikipedia.org/wiki/WebCrawler)

@@ -1,4 +1,4 @@
-# 0. Introduction
+# Introduction
 
 ## Our Contention: Web Search is Primitive
 

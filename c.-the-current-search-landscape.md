@@ -94,6 +94,10 @@ None of the below sites are within the top 130k sites according to Alexa \(12/20
 
 ## Additional Notes on Particular Search Engines
 
+### DuckDuckGo
+
+See [C.1. DuckDuckGo](c.1.-duckduckgo.md).
+
 ### Yahoo
 
 Yahoo is quite high for web traffic but it has long outsourced its search results to Bing. We are not aware of any significant innovations Yahoo is making to the Bing results before displaying them and we are unaware of any such innovations on the horizon. However, the high traffic does mean that it could easily innovate on the search front and become a competitor.

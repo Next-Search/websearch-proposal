@@ -120,7 +120,7 @@ Search Encrypt is similar to Startpage and DDG. It uses Bing for results and aga
 
 ### Qwant
 
-Qwant uses Bing results to supplement its own index. It has high traffic, was founded outside the United States, and offers a Boards application which allows for sharing and annotating web content.
+Qwant uses Bing results to supplement its own index, offers a Boards application which allows for sharing and annotating web content.
 
 ### Dogpile
 
@@ -132,7 +132,10 @@ Gigablast could easily have been excluded from this list. It appears to have sta
 
 ### Metager
 
-Metager, while not the highest trafficked apparently pulls results from numerous search engines \(aka, it is meta\), is from outside the US \(Germany\), and offers some helpful customization options for results. In addition it is a non-profit organization, has [released its source code as open source](https://gitlab.metager.de/open-source/MetaGer), and offers privacy. Fairly impressive!
+**Started At:** University of Hanover  
+**Founded:** 1996
+
+Metager is part of the non-profit organization SUMA-EV. While not the highest trafficked apparently pulls results from numerous search engines \(aka, it is meta\),and offers some helpful customization options for results. It has [released its source code as open source](https://gitlab.metager.de/open-source/MetaGer), and offers privacy. Impressive!
 
 ### Yippy
 

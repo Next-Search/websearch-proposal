@@ -20,6 +20,8 @@ Here we provide an overview of the services offered by DDG as well as where we b
 * [Safe Search](https://help.duckduckgo.com/duckduckgo-help-pages/features/safe-search/).
 * [Search Syntax](https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/).
 * \(Some\) [Localized Results](https://help.duckduckgo.com/duckduckgo-help-pages/results/local-results-mobile/).
+* Filter Results by Meaning.
+* Restrict Results by Geographic Region.
 
 ## Limitations
 

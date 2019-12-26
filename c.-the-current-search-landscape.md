@@ -48,10 +48,11 @@ We've provided additional footnotes regarding why certain sites are/are not on t
 ## Second Tier Competitors
 
 | Search Engine | Alexa Rank | Verified | More |
-| :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | [Yahoo](https://www.yahoo.com/) | [\#11](https://www.alexa.com/siteinfo/yahoo.com) | 12/2019 | [\^1] |
 | [Ask](https://www.ask.com/) |  [\#183](https://www.alexa.com/siteinfo/ask.com) | 12/2019 | [\^2] |
 | [Ecosia](https://www.ecosia.org/) | [\#378](https://www.alexa.com/siteinfo/ecosia.org) | 12/2019 | [^3\] |
+
 * [Startpage](https://www.startpage.com/) \(Alexa Rank: [\#1574](https://www.alexa.com/siteinfo/startpage.com), 12/2019\)\[^4\]
 * [SearchEncrypt](https://www.searchencrypt.com/) \(Alexa Rank: [\#4412](https://www.alexa.com/siteinfo/searchencrypt.com), 12/2019\)\[^5\]
 * Qwant \(Alexa Rank: [\#5466](https://www.alexa.com/siteinfo/qwant.com), 12/2019\)\[^6\]

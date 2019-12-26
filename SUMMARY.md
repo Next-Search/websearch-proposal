@@ -17,6 +17,7 @@
 * [A. Recommended Reading & Resources](recommended-reading-resources.md)
 * [B. A History of Web Search](a-history-of-web-search.md)
 * [C. The Current Search Landscape](c.-the-current-search-landscape.md)
+* [C.1. DuckDuckGo](c.1.-duckduckgo.md)
 * [D. Just Getting Started](d.-just-getting-started.md)
 * [E. FAQ](e.-faq.md)
 

@@ -54,27 +54,27 @@ We've provided additional footnotes regarding why certain sites are/are not on t
 | [Ecosia](https://www.ecosia.org/) | [\#378](https://www.alexa.com/siteinfo/ecosia.org) | 12/2019 |
 | [Startpage](https://www.startpage.com/) | [\#1574](https://www.alexa.com/siteinfo/startpage.com) | 12/2019 |
 | [SearchEncrypt](https://www.searchencrypt.com/) | [\#4412](https://www.alexa.com/siteinfo/searchencrypt.com) | 12/2019 |
-| [Qwant](https://qwant.com) | [\#5466](https://www.alexa.com/siteinfo/qwant.com) | 12/2019 |
+| [Qwant](https://qwant.com) \(France\) | [\#5466](https://www.alexa.com/siteinfo/qwant.com) | 12/2019 |
 | [Lycos](https://lycos.com/) | [\#17420](https://www.alexa.com/siteinfo/lycos.com) | 12/2019 |
-| [ZapMeta](https://zapmeta.com/) | [\#20816](https://www.alexa.com/siteinfo/zapmeta.com) | 12/2019 |
-| [EntireWeb](https://entireweb.com/) | [\#26009](https://www.alexa.com/siteinfo/entireweb.com) | 12/2019 |
+| [ZapMeta](https://zapmeta.com/) \(Netherlands\) | [\#20816](https://www.alexa.com/siteinfo/zapmeta.com) | 12/2019 |
+| [EntireWeb](https://entireweb.com/) \(Sweden\) | [\#26009](https://www.alexa.com/siteinfo/entireweb.com) | 12/2019 |
 | [Dogpile](https://dogpile.com/) | [\#33400](https://www.alexa.com/siteinfo/dogpile.com) | 12/2019 |
 | [InfoSpace](https://infospace.com/) | [\#42620](https://www.alexa.com/siteinfo/infospace.com) | 12/2019 |
-| [Exalead](https://exalead.com/) | [\#57288](https://www.alexa.com/siteinfo/exalead.com) | 12/2019 |
+| [Exalead](http://www.exalead.com/search/) \(France\) | [\#57288](https://www.alexa.com/siteinfo/exalead.com) | 12/2019 |
 | [Gigablast](https://gigablast.com/) | [\#61545](https://www.alexa.com/siteinfo/gigablast.com) | 12/2019 |
 | [Metager](https://metager.org/) \(German\) | [\#86032](https://www.alexa.com/siteinfo/metager.de) | 12/2019 |
 | [ExactSeek](https://exactseek.com/) | [\#88596](https://www.alexa.com/siteinfo/exactseek.com) | 12/2019 |
 | [Yippy](https://yippy.com/) | [\#114921](https://www.alexa.com/siteinfo/yippy.com) | 12/2019 |
 | [MillionShort](https://millionshort.com/) | [\#101750](https://www.alexa.com/siteinfo/millionshort.com) | 12/2019 |
-| [Mojeek](https://mojeek.com/) | [\#189992](https://www.alexa.com/siteinfo/mojeek.com) | 12/2019 |
-| [Lilo](https://www.lilo.org/en/) | [\#7418](https://www.alexa.com/siteinfo/lilo.org) | 12/2019 |
+| [Mojeek](https://mojeek.com/) \(UK\) | [\#189992](https://www.alexa.com/siteinfo/mojeek.com) | 12/2019 |
+| [Lilo](https://www.lilo.org/en/) \(France\) | [\#7418](https://www.alexa.com/siteinfo/lilo.org) | 12/2019 |
 
 ## Third Tier Competitors
 
-* [eTools](https://etools.ch/)  [\#474634](https://www.alexa.com/siteinfo/etools.ch), 12/2019\)\[^15\]
-* [Active Search Results](https://activesearchresults.com/) \(Alexa Rank: [\#54681](https://www.alexa.com/siteinfo/activesearchresults.com), 12/2019\)\[^16\]
-* [Searx](https://searx.me/) \(Alexa Rank: [\#176757](https://www.alexa.com/siteinfo/searx.me), 12/2019\)
-* [Whaleslide](https://whaleslide.com/) \(Alexa Rank: 8m+, 12/2019\)\[^12\]
+* [eTools](https://etools.ch/) \(Switzerland, Alexa Rank: [\#474634](https://www.alexa.com/siteinfo/etools.ch), 12/2019\)
+* [Active Search Results](https://activesearchresults.com/) \(Alexa Rank: [\#54681](https://www.alexa.com/siteinfo/activesearchresults.com), 12/2019\)
+* [Searx](https://searx.me/) \(Hungary, Alexa Rank: [\#176757](https://www.alexa.com/siteinfo/searx.me), 12/2019\)
+* [Whaleslide](https://whaleslide.com/) \(UK, Alexa Rank: 8m+, 12/2019\)
 
 ## The Rest
 
@@ -118,7 +118,7 @@ Search Encrypt is similar to Startpage and DDG. It uses Bing for results and aga
 
 Qwant uses Bing results to supplement its own index. It has high traffic, was founded outside the United States, and offers a Boards application which allows for sharing and annotating web content.
 
-## Dogpile
+### Dogpile
 
 Dogpile is a meta search engine \(owned by InfoSpace\), one of the older engines on the net. It doesn't seem to be particularly distinguished from others but could probably offer competition if it placed energies towards significant innovation.
 
@@ -164,8 +164,4 @@ Normally we'd have put ASR into the second tier results, but at least for us the
 * Chuck Price's [14 Great Search Engines You Can Use Instead of Google](https://www.searchenginejournal.com/alternative-search-engines/). Search Engine Journal, 2018.
   * We wouldn't include Wiki.com, Twitter, CC Search, Boardreader, or Slideshare.
 * Matteo Duo's [21 Alternative Search Engines to Use in 2019](https://kinsta.com/blog/alternative-search-engines/). Kinsta, 2019.
-
-## Footnotes
-
-\[
 

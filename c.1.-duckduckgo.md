@@ -6,7 +6,7 @@ Here we provide an overview of the services offered by DDG as well as where we b
 
 * Founded: 2008
 * Searches/mo: 1.5 billion \(12/2019\)\[^1\]
-* 
+
 ## Features
 
 * Strong emphasis on user privacy.

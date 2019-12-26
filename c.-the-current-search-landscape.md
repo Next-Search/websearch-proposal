@@ -81,6 +81,7 @@ None of the below sites are within the top 130k sites according to Alexa \(12/20
 
 ## Additional Resources
 
+* [The Search Engine Map](https://www.searchenginemap.com/). Mojeek.
 * Paul Gil's [The Best Search Engines of 2019](https://www.lifewire.com/best-search-engines-2483352). Lifewire, 2019.
   * We probably wouldn't include Google Scholar as a separate entry or Webopedia at all.
 * Wikipedia's [List of Search Engines](https://en.wikipedia.org/wiki/List_of_search_engines).

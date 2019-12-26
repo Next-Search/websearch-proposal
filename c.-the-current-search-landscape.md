@@ -47,27 +47,27 @@ We've provided additional footnotes regarding why certain sites are/are not on t
 
 ## Second Tier Competitors
 
-| Search Engine | Alexa Rank | Verified | More |
-| :--- | :--- | :--- | :--- |
-| [Yahoo](https://www.yahoo.com/) | [\#11](https://www.alexa.com/siteinfo/yahoo.com) | 12/2019 | \[\^1\] |
-| [Ask](https://www.ask.com/) | [\#183](https://www.alexa.com/siteinfo/ask.com) | 12/2019 | \[\^2\] |
-| [Ecosia](https://www.ecosia.org/) | [\#378](https://www.alexa.com/siteinfo/ecosia.org) | 12/2019 |  |
-| [Startpage](https://www.startpage.com/) | [\#1574](https://www.alexa.com/siteinfo/startpage.com) | 12/2019 |  |
-| [SearchEncrypt](https://www.searchencrypt.com/) | [\#4412](https://www.alexa.com/siteinfo/searchencrypt.com) | 12/2019 |  |
-| [Qwant](https://qwant.com) | [\#5466](https://www.alexa.com/siteinfo/qwant.com) | 12/2019 |  |
-| [Lycos](https://lycos.com/) | [\#17420](https://www.alexa.com/siteinfo/lycos.com) | 12/2019 |  |
-| [ZapMeta](https://zapmeta.com/) | [\#20816](https://www.alexa.com/siteinfo/zapmeta.com) | 12/2019 |  |
-| [EntireWeb](https://entireweb.com/) | [\#26009](https://www.alexa.com/siteinfo/entireweb.com) | 12/2019 |  |
-| [Dogpile](https://dogpile.com/) | [\#33400](https://www.alexa.com/siteinfo/dogpile.com) | 12/2019 |  |
-| [InfoSpace](https://infospace.com/) | [\#42620](https://www.alexa.com/siteinfo/infospace.com) | 12/2019 |  |
-| [Exalead](https://exalead.com/) | [\#57288](https://www.alexa.com/siteinfo/exalead.com) | 12/2019 |  |
-| [Gigablast](https://gigablast.com/) | [\#61545](https://www.alexa.com/siteinfo/gigablast.com) | 12/2019 |  |
-| [Metager](https://metager.org/) \(German\) | [\#86032](https://www.alexa.com/siteinfo/metager.de) | 12/2019 |  |
-| [ExactSeek](https://exactseek.com/) | [\#88596](https://www.alexa.com/siteinfo/exactseek.com) | 12/2019 |  |
-| [Yippy](https://yippy.com/) | [\#114921](https://www.alexa.com/siteinfo/yippy.com) | 12/2019 |  |
-| [MillionShort](https://millionshort.com/) | [\#101750](https://www.alexa.com/siteinfo/millionshort.com) | 12/2019 |  |
-| [Mojeek](https://mojeek.com/) | [\#189992](https://www.alexa.com/siteinfo/mojeek.com) | 12/2019 |  |
-| [Lilo](https://www.lilo.org/en/) | [\#7418](https://www.alexa.com/siteinfo/lilo.org) | 12/2019 |  |
+| Search Engine | Alexa Rank | Verified |
+| :--- | :--- | :--- |
+| [Yahoo](https://www.yahoo.com/) | [\#11](https://www.alexa.com/siteinfo/yahoo.com) | 12/2019 |
+| [Ask](https://www.ask.com/) | [\#183](https://www.alexa.com/siteinfo/ask.com) | 12/2019 |
+| [Ecosia](https://www.ecosia.org/) | [\#378](https://www.alexa.com/siteinfo/ecosia.org) | 12/2019 |
+| [Startpage](https://www.startpage.com/) | [\#1574](https://www.alexa.com/siteinfo/startpage.com) | 12/2019 |
+| [SearchEncrypt](https://www.searchencrypt.com/) | [\#4412](https://www.alexa.com/siteinfo/searchencrypt.com) | 12/2019 |
+| [Qwant](https://qwant.com) | [\#5466](https://www.alexa.com/siteinfo/qwant.com) | 12/2019 |
+| [Lycos](https://lycos.com/) | [\#17420](https://www.alexa.com/siteinfo/lycos.com) | 12/2019 |
+| [ZapMeta](https://zapmeta.com/) | [\#20816](https://www.alexa.com/siteinfo/zapmeta.com) | 12/2019 |
+| [EntireWeb](https://entireweb.com/) | [\#26009](https://www.alexa.com/siteinfo/entireweb.com) | 12/2019 |
+| [Dogpile](https://dogpile.com/) | [\#33400](https://www.alexa.com/siteinfo/dogpile.com) | 12/2019 |
+| [InfoSpace](https://infospace.com/) | [\#42620](https://www.alexa.com/siteinfo/infospace.com) | 12/2019 |
+| [Exalead](https://exalead.com/) | [\#57288](https://www.alexa.com/siteinfo/exalead.com) | 12/2019 |
+| [Gigablast](https://gigablast.com/) | [\#61545](https://www.alexa.com/siteinfo/gigablast.com) | 12/2019 |
+| [Metager](https://metager.org/) \(German\) | [\#86032](https://www.alexa.com/siteinfo/metager.de) | 12/2019 |
+| [ExactSeek](https://exactseek.com/) | [\#88596](https://www.alexa.com/siteinfo/exactseek.com) | 12/2019 |
+| [Yippy](https://yippy.com/) | [\#114921](https://www.alexa.com/siteinfo/yippy.com) | 12/2019 |
+| [MillionShort](https://millionshort.com/) | [\#101750](https://www.alexa.com/siteinfo/millionshort.com) | 12/2019 |
+| [Mojeek](https://mojeek.com/) | [\#189992](https://www.alexa.com/siteinfo/mojeek.com) | 12/2019 |
+| [Lilo](https://www.lilo.org/en/) | [\#7418](https://www.alexa.com/siteinfo/lilo.org) | 12/2019 |
 
 ## Third Tier Competitors
 
@@ -92,6 +92,68 @@ None of the below sites are within the top 130k sites according to Alexa \(12/20
 * [EveryClick](https://www.everyclick.com/)
 * [MonsterCrawler](http://monstercrawler.com/)
 
+## Additional Notes on Particular Search Engines
+
+### Yahoo
+
+Yahoo is quite high for web traffic but it has long outsourced its search results to Bing. We are not aware of any significant innovations Yahoo is making to the Bing results before displaying them and we are unaware of any such innovations on the horizon. However, the high traffic does mean that it could easily innovate on the search front and become a competitor.
+
+### Ask
+
+Ask pulls from Google, similarly to how Yahoo pulls from Bing. Again, we don't see significant innovations layered on top of the Google results nor any such on the horizon. As with Yahoo, Ask could quickly become a competitor if it so chose.
+
+### Ecosia
+
+Ecosia sources its results from Bing and is a similar situation to Yahoo/Ask. It is included at the second tier level because of the high traffic, its emphasis on earth-friendly / social good.
+
+### Startpage
+
+Startpage uses Google results, is similar DDG, but has enough traffic to make it a potentially serious competitor.
+
+### Search Encrypt
+
+Search Encrypt is similar to Startpage and DDG. It uses Bing for results and again is listed because of its high traffic.
+
+### Qwant
+
+Qwant uses Bing results to supplement its own index. It has high traffic, was founded outside the United States, and offers a Boards application which allows for sharing and annotating web content.
+
+## Dogpile
+
+Dogpile is a meta search engine \(owned by InfoSpace\), one of the older engines on the net. It doesn't seem to be particularly distinguished from others but could probably offer competition if it placed energies towards significant innovation.
+
+### Gigablast
+
+Gigablast could easily have been excluded from this list. It appears to have stagnated to a large extent.
+
+### Metager
+
+Metager, while not the highest trafficked apparently pulls results from numerous search engines \(aka, it is meta\), is from outside the US \(Germany\), and offers some helpful customization options for results. In addition it is a non-profit organization, has [released its source code as open source](https://gitlab.metager.de/open-source/MetaGer), and offers privacy. Fairly impressive!
+
+### Yippy
+
+Yippy is powered by IBM Watson, uses Bing for at least some of tis results, its most interesting feature is its ability to cluster results into topics - e.g., searching for "Civil War" one might be interested in the American Civil War, the comic book movie, a civil war in another country, etc. Yippy helps one quickly filter out irrelevant results.
+
+### MillionShort
+
+While technically ahead of Yippy it has been included after because while we love the idea of trimming off a million search results to find new content it is unlikely one actually wants to write off the top million results in many use cases.
+
+### Whaleslide
+
+Whaleslide is lowly trafficked according to Alexa but the site seems to offer some innovative features. In addition to donating to non-profits with revenue generated, its site design is slick and performant, one can "pin sites" and also add them to collections, and it is privacy focused.
+
+### Infospace
+
+InfoSpace appears to pull results from Bing. It is also the owner of Dogpile and WebCrawler.
+
+### eTools
+
+eTools is included not because of high traffic but due to the customizability of the engine. It is a metasearch engine that can query 16 different search engines and allows the user to determine the weight of each engine. It also shows in the results which search engines returned which results \(including when multiple returned the same result\).
+
+### Active Search Results \(ASR\)
+
+Normally we'd have put ASR into the second tier results, but at least for us the search results relevance wasn't very high, so we'll leave them third tier \(due to the significant traffic they receive\), but will need to see improved results before we'd consider moving them to second tier.
+
 ## Additional Resources
 
 * [The Search Engine Map](https://www.searchenginemap.com/). Mojeek.
@@ -105,20 +167,5 @@ None of the below sites are within the top 130k sites according to Alexa \(12/20
 
 ## Footnotes
 
-\[^1\]: While Yahoo is extremely high traffic it has long outsourced its search results to Bing and we are not aware of any major innovations being implemented on top of those Bing results. We've included Yahoo in second tier due to its high traffic and the fact that it could quickly become a significant player if it chose to augment Bing's results or implement its own engine again.  
-\[^2\]: Ask is a similar situation to Yahoo, its results are pulled from Google and we don't see significant innovation on top of those results. However, like Yahoo, they could quickly become a significant player if they focused on search again.  
-\[^3\]: Ecosia draws its results from Bing. If it wasn't for its high traffic it might not be included on this list - but its traffic and its earth-friendly / social good focus make it unique enough to stand apart from the rest.  
-\[^4\]: Startpage uses Google results, is similar DDG, but has enough traffic to make it a potentially serious competitor.  
-\[^5\]: Search Encrypt is similar to Startpage and DDG. It uses Bing for results and again is listed because of its high traffic.  
-\[^6\]: Qwant uses Bing results to supplement its own index. It has high traffic, was founded outside the United States, and offers a Boards application which allows for sharing and annotating web content.  
-\[^7\]: Dogpile is a meta search engine \(owned by InfoSpace\), one of the older engines on the net. It doesn't seem to be particularly distinguished from others but could probably offer competition if it placed energies towards significant innovation.  
-\[^8\]: Gigablast could easily have been excluded from this list. It appears to have stagnated to a large extent.  
-\[^9\]: Metager, while not the highest trafficked apparently pulls results from numerous search engines \(aka, it is meta\), is from outside the US \(Germany\), and offers some helpful customization options for results. In addition it is a non-profit organization, has [released its source code as open source](https://gitlab.metager.de/open-source/MetaGer), and offers privacy. Fairly impressive!  
-\[^10\]: Yippy is powered by IBM Watson, uses Bing for at least some of tis results, its most interesting feature is its ability to cluster results into topics - e.g., searching for "Civil War" one might be interested in the American Civil War, the comic book movie, a civil war in another country, etc. Yippy helps one quickly filter out irrelevant results.  
-\[^11\]: While technically ahead of Yippy it has been included after because while we love the idea of trimming off a million search results to find new content it is unlikely one actually wants to write off the top million results in many use cases.  
-\[^12\]: Whaleslide is lowly trafficked according to Alexa but the site seems to offer some innovative features. In addition to donating to non-profits with revenue generated, its site design is slick and performant, one can "pin sites" and also add them to collections, and it is privacy focused.  
-\[^13\]: InfoSpace appears to pull results from Bing. It is also the owner of Dogpile and WebCrawler.  
-\[^14\]: Sourced from Bing, included due to high popularity.  
-\[^15\]: eTools is included not because of high traffic but due to the customizability of the engine. It is a metasearch engine that can query 16 different search engines and allows the user to determine the weight of each engine. It also shows in the results which search engines returned which results \(including when multiple returned the same result\).  
-\[^16\]: Normally we'd have put ASR into the second tier results, but at least for us the search results relevance wasn't very high, so we'll leave them third tier \(due to the significant traffic they receive\), but will need to see improved results before we'd consider moving them to second tier.
+\[
 

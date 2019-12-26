@@ -6,6 +6,8 @@ Everyone knows Google is the big name in search, followed distantly by Bing. But
 
 This appendix attempts to address these questions and to provide a fairly thorough evaluation of the currently available search options. Feel free to skip on to the lists of search engines below but we also wanted to provide some information on our methodology for those who may be interested why certain sites do and don't appear on this list.
 
+We'd love to hear from you if we've missed any engines or if you have reasons why we've miscategorized an engine. You can reach us via [twitter @nextwebsearch](https://twitter.com/nextwebsearch) or via email at nextsearch@protonmail.com.
+
 ## Methodology
 
 The search landscape is not unitary and straightforward. That is, one is often not comparing apples to apples when looking at different search engines. For example:

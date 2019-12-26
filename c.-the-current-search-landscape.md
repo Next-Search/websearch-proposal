@@ -41,7 +41,7 @@ We've provided additional footnotes regarding why certain sites are/are not on t
 | Search Engine | Alexa Rank | Verified |
 | :--- | :--- | :--- |
 | [Microsoft Bing](https://bing.com/) | [\#30](https://www.alexa.com/siteinfo/bing.com) | 12/2019 |
-| [DuckDuckGo](https://duckduckgo.com/)  | [\#179](https://www.alexa.com/siteinfo/duckduckgo.com) | 12/2019 |
+| [DuckDuckGo](https://duckduckgo.com/) | [\#179](https://www.alexa.com/siteinfo/duckduckgo.com) | 12/2019 |
 | [Baidu](https://baidu.com/) \(China\) | [\#4](https://www.alexa.com/siteinfo/baidu.com) | 12/2019 |
 | [Yandex](https://yandex.com/) \(Russia\) | [\#50](https://www.alexa.com/siteinfo/yandex.ru) | 12/2019 |
 
@@ -49,47 +49,47 @@ We've provided additional footnotes regarding why certain sites are/are not on t
 
 | Search Engine | Alexa Rank | Verified | More |
 | :--- | :--- | :--- | :--- |
-| [Yahoo](https://www.yahoo.com/) | [\#11](https://www.alexa.com/siteinfo/yahoo.com) | 12/2019 | [\^1] |
-| [Ask](https://www.ask.com/) |  [\#183](https://www.alexa.com/siteinfo/ask.com) | 12/2019 | [\^2] |
-| [Ecosia](https://www.ecosia.org/) | [\#378](https://www.alexa.com/siteinfo/ecosia.org) | 12/2019 | [^3\] |
-| [Startpage](https://www.startpage.com/) | [\#1574](https://www.alexa.com/siteinfo/startpage.com) | 12/2019 | [^4\] |
-| [SearchEncrypt](https://www.searchencrypt.com/) | [\#4412](https://www.alexa.com/siteinfo/searchencrypt.com) | 12/2019 | [^5\] |
-| Qwant | [\#5466](https://www.alexa.com/siteinfo/qwant.com) | 12/2019 | [^6\] |
-| Lycos | [\#17420](https://www.alexa.com/siteinfo/lycos.com) | 12/2019 | [^14\] |
-| ZapMeta | [\#20816](https://www.alexa.com/siteinfo/zapmeta.com) | 12/2019 | |
-| EntireWeb | [\#26009](https://www.alexa.com/siteinfo/entireweb.com) | 12/2019 | |
-| Dogpile | [\#33400](https://www.alexa.com/siteinfo/dogpile.com) | 12/2019 | [^7\] |
-| InfoSpace | [\#42620](https://www.alexa.com/siteinfo/infospace.com) | 12/2019 | [^13\] |
-| Exalead | [\#57288](https://www.alexa.com/siteinfo/exalead.com) | 12/2019 | |
-| Gigablast | [\#61545](https://www.alexa.com/siteinfo/gigablast.com) | 12/2019 | [^8\] |
-| Metager (German) | [\#86032](https://www.alexa.com/siteinfo/metager.de) | 12/2019 | [^9\] |
-| ExactSeek | [\#88596](https://www.alexa.com/siteinfo/exactseek.com) | 12/2019 | |
-| [Yippy](https://yippy.com/) | [\#114921](https://www.alexa.com/siteinfo/yippy.com) | 12/2019 | [^10\] |
-| MillionShort | [\#101750](https://www.alexa.com/siteinfo/millionshort.com) | 12/2019 | [^11\] |
-| Mojeek | [\#189992](https://www.alexa.com/siteinfo/mojeek.com) | 12/2019 | |
-| Lilo | [\#7418](https://www.alexa.com/siteinfo/lilo.org) | 12/2019 | |
+| [Yahoo](https://www.yahoo.com/) | [\#11](https://www.alexa.com/siteinfo/yahoo.com) | 12/2019 | \[\^1\] |
+| [Ask](https://www.ask.com/) | [\#183](https://www.alexa.com/siteinfo/ask.com) | 12/2019 | \[\^2\] |
+| [Ecosia](https://www.ecosia.org/) | [\#378](https://www.alexa.com/siteinfo/ecosia.org) | 12/2019 |  |
+| [Startpage](https://www.startpage.com/) | [\#1574](https://www.alexa.com/siteinfo/startpage.com) | 12/2019 |  |
+| [SearchEncrypt](https://www.searchencrypt.com/) | [\#4412](https://www.alexa.com/siteinfo/searchencrypt.com) | 12/2019 |  |
+| [Qwant](https://qwant.com) | [\#5466](https://www.alexa.com/siteinfo/qwant.com) | 12/2019 |  |
+| [Lycos](https://lycos.com/) | [\#17420](https://www.alexa.com/siteinfo/lycos.com) | 12/2019 |  |
+| [ZapMeta](https://zapmeta.com/) | [\#20816](https://www.alexa.com/siteinfo/zapmeta.com) | 12/2019 |  |
+| [EntireWeb](https://entireweb.com/) | [\#26009](https://www.alexa.com/siteinfo/entireweb.com) | 12/2019 |  |
+| [Dogpile](https://dogpile.com/) | [\#33400](https://www.alexa.com/siteinfo/dogpile.com) | 12/2019 |  |
+| [InfoSpace](https://infospace.com/) | [\#42620](https://www.alexa.com/siteinfo/infospace.com) | 12/2019 |  |
+| [Exalead](https://exalead.com/) | [\#57288](https://www.alexa.com/siteinfo/exalead.com) | 12/2019 |  |
+| [Gigablast](https://gigablast.com/) | [\#61545](https://www.alexa.com/siteinfo/gigablast.com) | 12/2019 |  |
+| [Metager](https://metager.org/) \(German\) | [\#86032](https://www.alexa.com/siteinfo/metager.de) | 12/2019 |  |
+| [ExactSeek](https://exactseek.com/) | [\#88596](https://www.alexa.com/siteinfo/exactseek.com) | 12/2019 |  |
+| [Yippy](https://yippy.com/) | [\#114921](https://www.alexa.com/siteinfo/yippy.com) | 12/2019 |  |
+| [MillionShort](https://millionshort.com/) | [\#101750](https://www.alexa.com/siteinfo/millionshort.com) | 12/2019 |  |
+| [Mojeek](https://mojeek.com/) | [\#189992](https://www.alexa.com/siteinfo/mojeek.com) | 12/2019 |  |
+| [Lilo](https://www.lilo.org/en/) | [\#7418](https://www.alexa.com/siteinfo/lilo.org) | 12/2019 |  |
 
 ## Third Tier Competitors
 
-* eTools  [\#474634](https://www.alexa.com/siteinfo/etools.ch), 12/2019\)\[^15\]
-* Active Search Results \(Alexa Rank: [\#54681](https://www.alexa.com/siteinfo/activesearchresults.com), 12/2019\)\[^16\]
-* Searx \(Alexa Rank: [\#176757](https://www.alexa.com/siteinfo/searx.me), 12/2019\)
-* Whaleslide \(Alexa Rank: 8m+, 12/2019\)\[^12\]
+* [eTools](https://etools.ch/)  [\#474634](https://www.alexa.com/siteinfo/etools.ch), 12/2019\)\[^15\]
+* [Active Search Results](https://activesearchresults.com/) \(Alexa Rank: [\#54681](https://www.alexa.com/siteinfo/activesearchresults.com), 12/2019\)\[^16\]
+* [Searx](https://searx.me/) \(Alexa Rank: [\#176757](https://www.alexa.com/siteinfo/searx.me), 12/2019\)
+* [Whaleslide](https://whaleslide.com/) \(Alexa Rank: 8m+, 12/2019\)\[^12\]
 
 ## The Rest
 
 None of the below sites are within the top 130k sites according to Alexa \(12/2019\). We may move Searx \(open source\) onto our list of contenders after further evaluation. Most of the other sites are privacy oriented sites that don't show significant differentiation from DDG.
 
-* Searchalot
-* AlltheInternet
-* Gibiru
-* Disconnect
-* Swisscows
-* Lukol
+* [Searchalot](https://www.searchalot.com/)
+* [AlltheInternet](https://www.alltheinternet.com/)
+* [Gibiru](https://gibiru.com/)
+* [Disconnect](https://search.disconnect.me/)
+* [Swisscows](https://swisscows.com/?culture=en)
+* [Lukol](https://www.lukol.com/)
 * [Oscobo](https://www.oscobo.com)
-* DiscreteSearch
-* HotBot
-* EveryClick
+* [DiscreteSearch](https://www.discretesearch.com)
+* [HotBot](https://hotbot.com/)
+* [EveryClick](https://www.everyclick.com/)
 * [MonsterCrawler](http://monstercrawler.com/)
 
 ## Additional Resources

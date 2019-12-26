@@ -52,27 +52,26 @@ We've provided additional footnotes regarding why certain sites are/are not on t
 | [Yahoo](https://www.yahoo.com/) | [\#11](https://www.alexa.com/siteinfo/yahoo.com) | 12/2019 | [\^1] |
 | [Ask](https://www.ask.com/) |  [\#183](https://www.alexa.com/siteinfo/ask.com) | 12/2019 | [\^2] |
 | [Ecosia](https://www.ecosia.org/) | [\#378](https://www.alexa.com/siteinfo/ecosia.org) | 12/2019 | [^3\] |
-
-* [Startpage](https://www.startpage.com/) \(Alexa Rank: [\#1574](https://www.alexa.com/siteinfo/startpage.com), 12/2019\)\[^4\]
-* [SearchEncrypt](https://www.searchencrypt.com/) \(Alexa Rank: [\#4412](https://www.alexa.com/siteinfo/searchencrypt.com), 12/2019\)\[^5\]
-* Qwant \(Alexa Rank: [\#5466](https://www.alexa.com/siteinfo/qwant.com), 12/2019\)\[^6\]
-* Lycos \(Alexa Rank: [\#17420](https://www.alexa.com/siteinfo/lycos.com), 12/2019\)\[^14\]
-* ZapMeta \(Alexa Rank: [\#20816](https://www.alexa.com/siteinfo/zapmeta.com), 12/2019\)
-* EntireWeb \(Alexa Rank: [\#26009](https://www.alexa.com/siteinfo/entireweb.com), 12/2019\)
-* Dogpile \(Alexa Rank: [\#33400](https://www.alexa.com/siteinfo/dogpile.com), 12/2019\)\[^7\]
-* InfoSpace \(Alexa Rank: [\#42620](https://www.alexa.com/siteinfo/infospace.com), 12/2019\)\[^13\]
-* Exalead \(Alexa Rank: [\#57288](https://www.alexa.com/siteinfo/exalead.com), 12/2019\)
-* Gigablast \(Alexa Rank: [\#61545](https://www.alexa.com/siteinfo/gigablast.com), 12/2019\)\[^8\]
-* Metager \(German, Alexa Rank: [\#86032](https://www.alexa.com/siteinfo/metager.de), 12/2019\)\[^9\]
-* ExactSeek \(Alexa Rank: [\#88596](https://www.alexa.com/siteinfo/exactseek.com), 12/2019\)
-* [Yippy](https://yippy.com/) \(Alexa Rank: [\#114921](https://www.alexa.com/siteinfo/yippy.com), 12/2019\)\[^10\]
-* MillionShort \(Alexa Rank: [\#101750](https://www.alexa.com/siteinfo/millionshort.com), 12/2019\)\[^11\]
-* Mojeek \(Alexa Rank: [\#189992](https://www.alexa.com/siteinfo/mojeek.com), 12/2019\)
-* Lilo \(Alexa Rank: [\#7418](https://www.alexa.com/siteinfo/lilo.org), 12/2019\)
+| [Startpage](https://www.startpage.com/) | [\#1574](https://www.alexa.com/siteinfo/startpage.com) | 12/2019 | [^4\] |
+| [SearchEncrypt](https://www.searchencrypt.com/) | [\#4412](https://www.alexa.com/siteinfo/searchencrypt.com) | 12/2019 | [^5\] |
+| Qwant | [\#5466](https://www.alexa.com/siteinfo/qwant.com) | 12/2019 | [^6\] |
+| Lycos | [\#17420](https://www.alexa.com/siteinfo/lycos.com) | 12/2019 | [^14\] |
+| ZapMeta | [\#20816](https://www.alexa.com/siteinfo/zapmeta.com) | 12/2019 | |
+| EntireWeb | [\#26009](https://www.alexa.com/siteinfo/entireweb.com) | 12/2019 | |
+| Dogpile | [\#33400](https://www.alexa.com/siteinfo/dogpile.com) | 12/2019 | [^7\] |
+| InfoSpace | [\#42620](https://www.alexa.com/siteinfo/infospace.com) | 12/2019 | [^13\] |
+| Exalead | [\#57288](https://www.alexa.com/siteinfo/exalead.com) | 12/2019 | |
+| Gigablast | [\#61545](https://www.alexa.com/siteinfo/gigablast.com) | 12/2019 | [^8\] |
+| Metager (German) | [\#86032](https://www.alexa.com/siteinfo/metager.de) | 12/2019 | [^9\] |
+| ExactSeek | [\#88596](https://www.alexa.com/siteinfo/exactseek.com) | 12/2019 | |
+| [Yippy](https://yippy.com/) | [\#114921](https://www.alexa.com/siteinfo/yippy.com) | 12/2019 | [^10\] |
+| MillionShort | [\#101750](https://www.alexa.com/siteinfo/millionshort.com) | 12/2019 | [^11\] |
+| Mojeek | [\#189992](https://www.alexa.com/siteinfo/mojeek.com) | 12/2019 | |
+| Lilo | [\#7418](https://www.alexa.com/siteinfo/lilo.org) | 12/2019 | |
 
 ## Third Tier Competitors
 
-* eTools \(Alexa Rank: [\#474634](https://www.alexa.com/siteinfo/etools.ch), 12/2019\)\[^15\]
+* eTools  [\#474634](https://www.alexa.com/siteinfo/etools.ch), 12/2019\)\[^15\]
 * Active Search Results \(Alexa Rank: [\#54681](https://www.alexa.com/siteinfo/activesearchresults.com), 12/2019\)\[^16\]
 * Searx \(Alexa Rank: [\#176757](https://www.alexa.com/siteinfo/searx.me), 12/2019\)
 * Whaleslide \(Alexa Rank: 8m+, 12/2019\)\[^12\]

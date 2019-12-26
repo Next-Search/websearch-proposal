@@ -38,19 +38,24 @@ We've provided additional footnotes regarding why certain sites are/are not on t
 
 ## The Contenders
 
-* [Microsoft Bing](https://bing.com/) \(Alexa Rank: [\#30](https://www.alexa.com/siteinfo/bing.com), 12/2019\)
-* [DuckDuckGo](https://duckduckgo.com/) \(Alexa Rank: [\#179](https://www.alexa.com/siteinfo/duckduckgo.com), 12/2019\)
-* Specific Countries / Cultures / Languages:
-  * [Baidu](https://baidu.com/) - China. \(Alexa Rank: [\#4](https://www.alexa.com/siteinfo/baidu.com), 12/2019\)
-  * [Yandex](https://yandex.com/) - Russia. \(Alexa Rank: [\#50](https://www.alexa.com/siteinfo/yandex.ru), 12/2019\)
+| Search Engine | Alexa Rank | Verified |
+| :--- | :--- | :--- |
+| [Microsoft Bing](https://bing.com/) | [\#30](https://www.alexa.com/siteinfo/bing.com) | 12/2019 |
+| [DuckDuckGo](https://duckduckgo.com/)  | [\#179](https://www.alexa.com/siteinfo/duckduckgo.com) | 12/2019 |
+| [Baidu](https://baidu.com/) \(China\) | [\#4](https://www.alexa.com/siteinfo/baidu.com) | 12/2019 |
+| [Yandex](https://yandex.com/) \(Russia\) | [\#50](https://www.alexa.com/siteinfo/yandex.ru) | 12/2019 |
 
 ## Second Tier Competitors
 
-* Yahoo \(Alexa Rank: [\#11](https://www.alexa.com/siteinfo/yahoo.com), 12/2019\)\[^1\]
-* Ask \(Alexa Rank: [\#183](https://www.alexa.com/siteinfo/ask.com), 12/2019\)\[^2\]
-* Ecosia \(Alexa Rank: [\#378](https://www.alexa.com/siteinfo/ecosia.org), 12/2019\)\[^3\]
-* Startpage \(Alexa Rank: [\#1574](https://www.alexa.com/siteinfo/startpage.com), 12/2019\)\[^4\]
-* SearchEncrypt \(Alexa Rank: [\#4412](https://www.alexa.com/siteinfo/searchencrypt.com), 12/2019\)\[^5\]
+|  |  |
+| :--- | :--- |
+|  |  |
+
+* [Yahoo](https://www.yahoo.com/) \(Alexa Rank: [\#11](https://www.alexa.com/siteinfo/yahoo.com), 12/2019\)\[^1\]
+* [Ask](https://www.ask.com/) \(Alexa Rank: [\#183](https://www.alexa.com/siteinfo/ask.com), 12/2019\)\[^2\]
+* [Ecosia](https://www.ecosia.org/) \(Alexa Rank: [\#378](https://www.alexa.com/siteinfo/ecosia.org), 12/2019\)\[^3\]
+* [Startpage](https://www.startpage.com/) \(Alexa Rank: [\#1574](https://www.alexa.com/siteinfo/startpage.com), 12/2019\)\[^4\]
+* [SearchEncrypt](https://www.searchencrypt.com/) \(Alexa Rank: [\#4412](https://www.alexa.com/siteinfo/searchencrypt.com), 12/2019\)\[^5\]
 * Qwant \(Alexa Rank: [\#5466](https://www.alexa.com/siteinfo/qwant.com), 12/2019\)\[^6\]
 * Lycos \(Alexa Rank: [\#17420](https://www.alexa.com/siteinfo/lycos.com), 12/2019\)\[^14\]
 * ZapMeta \(Alexa Rank: [\#20816](https://www.alexa.com/siteinfo/zapmeta.com), 12/2019\)
@@ -77,7 +82,17 @@ We've provided additional footnotes regarding why certain sites are/are not on t
 
 None of the below sites are within the top 130k sites according to Alexa \(12/2019\). We may move Searx \(open source\) onto our list of contenders after further evaluation. Most of the other sites are privacy oriented sites that don't show significant differentiation from DDG.
 
-* Searchalot, AlltheInternet, Gibiru, Disconnect, Swisscows, Lukol, [Oscobo](https://www.oscobo.com), DiscreteSearch, HotBot, EveryClick, [MonsterCrawler](http://monstercrawler.com/)
+* Searchalot
+* AlltheInternet
+* Gibiru
+* Disconnect
+* Swisscows
+* Lukol
+* [Oscobo](https://www.oscobo.com)
+* DiscreteSearch
+* HotBot
+* EveryClick
+* [MonsterCrawler](http://monstercrawler.com/)
 
 ## Additional Resources
 

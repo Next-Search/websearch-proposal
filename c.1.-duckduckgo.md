@@ -1,6 +1,6 @@
 # C.1. DuckDuckGo
 
-Here we provide an overview of the services offered by DDG as well as where we believe it's weaknesses lie.
+Here we provide an overview of the services offered by DDG as well as where we believe it's weaknesses lie. Among the current competitors it seems like DDG may be the most likely to continue to grow significantly in web search market share.
 
 ## Statistics
 

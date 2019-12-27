@@ -12,6 +12,7 @@
 * [8.0 Faster Because Its Local](7.-faster-because-its-local.md)
 * [9.0 Advanced Beyond Our Years](8.-advanced.md)
 * [10.0 Company Culture](9.-company-culture.md)
+* [10.1 Employees](10.1-employees.md)
 * [11.0 Conclusion](conclusion.md)
 * [Appendixes](appendixes.md)
 * [A. Recommended Reading & Resources](recommended-reading-resources.md)

@@ -51,8 +51,8 @@ We've provided additional footnotes regarding why certain sites are/are not on t
 | :--- | :--- | :--- |
 | [Yahoo](https://www.yahoo.com/) | [\#11](https://www.alexa.com/siteinfo/yahoo.com) | 12/2019 |
 | [Ask](https://www.ask.com/) | [\#183](https://www.alexa.com/siteinfo/ask.com) | 12/2019 |
-| [Ecosia](https://www.ecosia.org/) | [\#378](https://www.alexa.com/siteinfo/ecosia.org) | 12/2019 |
-| [Startpage](https://www.startpage.com/) | [\#1574](https://www.alexa.com/siteinfo/startpage.com) | 12/2019 |
+| [Ecosia](https://www.ecosia.org/) \(Germany\) | [\#378](https://www.alexa.com/siteinfo/ecosia.org) | 12/2019 |
+| [Startpage](https://www.startpage.com/) \(Netherlands\) | [\#1574](https://www.alexa.com/siteinfo/startpage.com) | 12/2019 |
 | [SearchEncrypt](https://www.searchencrypt.com/) | [\#4412](https://www.alexa.com/siteinfo/searchencrypt.com) | 12/2019 |
 | [Qwant](https://qwant.com) \(France\) | [\#5466](https://www.alexa.com/siteinfo/qwant.com) | 12/2019 |
 | [Lycos](https://lycos.com/) | [\#17420](https://www.alexa.com/siteinfo/lycos.com) | 12/2019 |
@@ -113,6 +113,8 @@ Ecosia sources its results from Bing and is a similar situation to Yahoo/Ask. It
 ### Startpage
 
 Startpage uses Google results, is similar DDG, but has enough traffic to make it a potentially serious competitor.
+
+Startpage is descended from Ixquick which was a meta search engine.
 
 ### Search Encrypt
 

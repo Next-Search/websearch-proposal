@@ -136,6 +136,9 @@ We've found it difficult to find a comprehensive source of information on the hi
   * Had sophisticated auto-completion, related terms surfacing.
 * 2005 - December - **Yahoo** buys **Del.icio.us**.
 * 2006 - **Looksmart** closes **Zeal**.
+* 2007 - **Sundar Kundayam** launches **Zakta**, a collaborative search engine.
+  * As of 12/2019 the original Zakta collaborative search \(now known as **zGuide**s\) is down "for maintenance."
+  * **Zakta Marketing** is a paid offering.
 * 2007 - December - **Wikia Search** becomes available in private pre-alpha.
   * 2009 - May - **Wikia Search** closes.
 * 2008 - Google launches SearchWiki.
@@ -154,6 +157,7 @@ We've found it difficult to find a comprehensive source of information on the hi
   * Uses slashtags to allow searches to filter results.
   * 2015 - **IBM** acquires Blekko and shuts it down.
 * 2011 - Launch of **SearchTeam**, a collaborative search engine from **Zakta**.
+  * Does not appear fully functional as of 12/2019.
 * 2011 - June - **Google**, **Yahoo**, and **Microsoft** announced **Schema.org**.
   * Supports additional tags that sites can use to convey information to engines better.
 * 2012 - January - **Google** launches **Search Plus Your World** which integrates social data into one's query results.
@@ -187,6 +191,7 @@ We've attempted to be somewhat comprehensive in our bibliography. Resources we f
   * [Mojeek](https://en.wikipedia.org/wiki/Mojeek)
   * [Nutch](https://en.wikipedia.org/wiki/Apache_Nutch)
   * [Robots Exclusion Standard](https://en.wikipedia.org/wiki/Robots_exclusion_standard)
+  * [SearchTeam](https://en.wikipedia.org/wiki/SearchTeam)
   * [Startpage](https://en.wikipedia.org/wiki/Startpage.com)
   * [Qwant](https://en.wikipedia.org/wiki/Qwant)
   * [WebCrawler](https://en.wikipedia.org/wiki/WebCrawler)

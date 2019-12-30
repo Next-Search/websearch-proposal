@@ -64,8 +64,7 @@ We've found it difficult to find a comprehensive source of information on the hi
 * 1996 - **Dogpile** launches as a meta search engine.
 * 1996 - January-March - **Larry Page** and **Sergey Brin** begin work on **Google**'s predecessor, **BackRub**.
   *  1998 - **Google** search becomes available at google.com.
-* 1996 - May - **Inktomi** releases its **HotBot** search engine.
-  * 2002 - December - **Yahoo** acquires **Inktomi**.
+* 1996 - May - **Wired** releases its **HotBot** search engine.
 * 1996 - October - **Gary Culliss** and **Steven Yang** work at MIT on a "popularity engine" which becomes **Direct Hit Technologies** search engine.
   * Uses previous search selection stats to determine rank.
   * 1998 - August - **Direct Hit Technologies** releases their search engine.
@@ -89,6 +88,8 @@ We've found it difficult to find a comprehensive source of information on the hi
   * Uses **Inktomi** for its results, eventually changes name to **Bing.**
 * 1998 - **Looksmart** acquires **Zeal**, a web directory.
 * 1999 - May - **Tor Egge** launches **AlltheWeb.**
+* 1999 - **Bo Shu** and **Subhash Kak** launch meta search engine **Anvish**.
+  * Later merged with **Solosearch**.
 * 1999 - **Entireweb** launches.
 * 1999 - **Doug Cutting** writes **Lucene**, a popular open source search engine.
   * 2001 - Lucene joins Apache Software Foundation.
@@ -114,12 +115,12 @@ We've found it difficult to find a comprehensive source of information on the hi
 * 2003 - **Overture Services** buys **AltaVista** and **AlltheWeb**.
 * 2003 - **Yahoo** begins using its own crawler \(**Yahoo Slurp**\).
   * Previously, Yahoo! was using Google.
+  * 2003 - **Yahoo** acquires **Inktomi.**
 * 2003 - **Doug Cutting** and **Mike Cafarella** create **Nutch**, a popular open source web crawler.
   * From this will come **MapReduce** and **Hadoop**.
   * 2005 - Nutch joins **Apache Incubator**.
   * 2010 - Nutch becomes top level project at **Apache Software Foundation**.
   * 2014 - **Common Crawl** begins using Nutch for its crawls.
-* 2003 - **Yahoo** acquires **Inktomi.**
 * 2004 - **Marc Smith** at the **Sussex Innovation Centre** launches **Mojeek**.
 * 2004 - **Vivisimo** launches **Clusty**.
   * Started at Carnegie Mellon University.
@@ -200,4 +201,10 @@ We've attempted to be somewhat comprehensive in our bibliography. Resources we f
   * [Yippy](https://en.wikipedia.org/wiki/Yippy)
 * Joel Lee. [7 Search Engines That Rocked Before Google Even Exists](https://www.makeuseof.com/tag/7-search-engines-that-rocked-before-google-even-existed/). Mashable, 2015.
 * [Company Information and History](https://www.zapmeta.com/info/company_information). ZapMeta.
+
+## Information To Add
+
+* Daniel Dreilinger at Colorado State University [first to build a meta search engine](https://en.wikipedia.org/wiki/Metasearch_engine).
+* Eric Selberg at University of Washington [improves on meta search engine](https://en.wikipedia.org/wiki/Metasearch_engine).
+* Inktomi
 

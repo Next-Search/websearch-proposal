@@ -24,6 +24,8 @@
   * Uses Apache Nutch and Solr.
 * Xavier Decuyper. [Building a Meta-Search Engine](https://www.savjee.be/2014/05/Building-metasearch-engine/) \(2014\).
   * Uses PHP, MySQL/MariaDB, and Sphinx.
+* Wikipedia
+  * [Metasearch Engine](https://en.wikipedia.org/wiki/Metasearch_engine)
 
 ## Social Enterprises
 

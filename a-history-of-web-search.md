@@ -99,6 +99,9 @@ We've found it difficult to find a comprehensive source of information on the hi
 ## 2000-2009
 
 * 2000 - **Francois** **Bourdoncle** and **Patrice Bertin** found **Exalead**.
+* 2000 - **OpenCOLA**, distributed search engine, launches.
+* 2000 - April - **Gene Kan** and **Steve Waterhouse** launch **InfraSearch**, a distributed search engine.
+  * It is acquired by **Sun Microsystems**.
 * 2000 - **Matt Wells** founds **Gigablast**.
 * 2000 - January - **Robin Li** and **Li Hanyong** launch **Baidu**, a Chinese search engine.
 * 2000 - **Google** launches **AdWords** and **Google Toolbar**.
@@ -106,6 +109,7 @@ We've found it difficult to find a comprehensive source of information on the hi
   * Uses clustering to determine subject specific popularity.
 * 2001 - **Ask Jeeves** acquires **Teoma**.
 * 2001 - May - **Magellan** is closed down.
+* 2003 - December - **Michael Christen** launches what will eventually become **YaCy**, a distributed search engine.
 * 2003 - **Amazon** launches **A9.com**.
   * The technology behind Amazon.com
   * 2004 - A9 launches a web search engine.
@@ -133,6 +137,7 @@ We've found it difficult to find a comprehensive source of information on the hi
   * Previously, MSN was powered by LookSmart and Inktomi.
 * 2005 - **ZapMeta** becomes another international version of Vinden/Zoeken.
 * 2005 - January - **nofollow** attribute for links is introduced by **Google**, **Yahoo!**, and **Microsoft** to reduce spam.
+* 2005 - **Wolf Garbe** launches **Faroo**, a distributed search engine.
 * 2005 - October - **Bill Gross** launches **Snap**.
   * Offered detailed display of search volume.
   * Had sophisticated auto-completion, related terms surfacing.
@@ -178,6 +183,7 @@ We've attempted to be somewhat comprehensive in our bibliography. Resources we f
   * [Timeline of Web Search Engines](https://en.wikipedia.org/wiki/Timeline_of_web_search_engines)\*
   * [Timeline of Google Search](https://en.wikipedia.org/wiki/Timeline_of_Google_Search)\*
   * [A9.com](https://en.wikipedia.org/wiki/A9.com)
+  * [Distributed Search Engine](https://en.wikipedia.org/wiki/Distributed_search_engine)
   * [Ecosia](https://en.wikipedia.org/wiki/Ecosia)
   * [Exalead](https://en.wikipedia.org/wiki/Exalead)
   * [Excite](https://en.wikipedia.org/wiki/Excite)

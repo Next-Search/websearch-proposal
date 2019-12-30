@@ -1,4 +1,4 @@
-# Recommended Reading & Resources
+# A. Recommended Reading & Resources
 
 ## History of Search
 
@@ -22,6 +22,8 @@
   * Built on top of Lucene, requires less work to get started.
 * Muuo Wambua's [Build Yourself a Mini Search Engine](https://www.cs.toronto.edu/~muuo/blog/build-yourself-a-mini-search-engine/) \(2018\).
   * Uses Apache Nutch and Solr.
+* Xavier Decuyper. [Building a Meta-Search Engine](https://www.savjee.be/2014/05/Building-metasearch-engine/) \(2014\).
+  * Uses PHP, MySQL/MariaDB, and Sphinx.
 
 ## Social Enterprises
 

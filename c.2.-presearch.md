@@ -42,6 +42,8 @@ Presearch currently has one shareholder, the founder. NeSE would implement itsel
     * Explains the inspiration, token sale, and early launch of Presearch.
   * [Search Architect Greg Lindahl has joined Presearch Labs as CTO](https://medium.com/@presearch/search-architect-greg-lindahl-has-joined-presearch-labs-as-cto-aba285d402e2). 6/2018.
   * [Presearch Partners with MetaCert to Improve Search Engine Security](https://medium.com/@presearch/press-release-presearch-partners-with-metacert-to-improve-search-engine-security-a9340e564d45). 6/2018.
+  * [Presearch on the CryptoCanucks Podcast: Fundamental Shifts & Protecting Privacy](https://medium.com/@presearch/presearch-on-the-cryptocanucks-podcast-fundamental-shifts-protecting-privacy-1e5d7b2474ca). 9/2018.
+    * We were honestly surprised and impressed by some of the details Presearch reveals in this podcast regarding their aspirations. We didn't read this post until after we'd written most of our proposal, but there are definitely areas of overlap.
 
 
 

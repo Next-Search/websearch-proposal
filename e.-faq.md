@@ -14,7 +14,7 @@ No, not particularly, because:
 
 ## Q. Will you be a non-profit or for-profit company?
 
-We are working through the details of our legal structure. Becoming a non-profit is certainly on the table. No matter what legal structure you may assume we intend to make a legally binding contract with the public that ensures that the organization operates in the public's interest both in the near-term and long-term.
+We are working through the details of our legal structure. Becoming a non-profit is certainly on the table. No matter what legal structure we may assume we intend to make a legally binding contract with the public that ensures that the organization operates in the public's interest both in the near-term and long-term.
 
 For example, one common pattern with search engines has been growing popularity resulting in acquisition. After acquisition much of the original vision and functionality is usually lost. We aren't looking to be acquired but intend to build out robust rules under which such an acquisition could occur to ensure the integrity of our principles and the continued beenfit to the public of our service.
 

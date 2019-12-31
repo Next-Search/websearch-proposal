@@ -1,4 +1,4 @@
-# C.2. Similar Competition?
+# C.3. Similar Competition?
 
 There are several engines which offer some similar features to those offered by NeSE. We wanted to take a deeper dive on these engines evaluating their similarities and differences. We aren't looking to build something that already exists.
 

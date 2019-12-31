@@ -33,13 +33,5 @@ This system would be another use for The Trust Network and another way in which 
 
 We believe this could also open the way for paid crowdsourcing of materials that would significant improve content quality and clarity.
 
-{% hint style="info" %}
-We are interested in working with different existing organizations on this front, one which has particularly caught our eye is [Hypothesis](https://web.hypothes.is/).
-{% endhint %}
-
-## Providing Better Discoverability and Faster Access to Archived Materials
-
-The [Internet Archive](https://archive.org/index.php) has done humanity a vast service with its [Wayback Machine](https://archive.org/web/) which archives much of the now dead web. As avid fans of Wayback Machine we'd like to see it used more widely and believe that we could find ways to improve the discoverability of materials and perhaps assist in making recovering these materials more speedy.
-
 
 

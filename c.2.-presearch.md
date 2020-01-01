@@ -1,7 +1,7 @@
 # C.2. Presearch
 
 {% hint style="info" %}
-"...w_e believe there is a ton of room for disruption in the search space, and having some competition provided us with a sense of urgency and validated the market opportunity. We wish them all the best with their project._"
+"...w_e believe there is a ton of room for disruption in the search space, and having some competition provided us with a sense of urgency and validated the market opportunity. We wish them all the best with their project._" - [Presearch](https://blog.goodaudience.com/presearch-the-anatomy-of-a-token-sale-9f4c31bc3f1f)
 {% endhint %}
 
 When Presearch was initially announced we were as excited as anyone by the potential for a new, high quality, open search engine entering the market. Things haven't developed as swiftly as we'd like and we believe we have a number of differentiators which would position us to better contend with Google.
@@ -45,6 +45,10 @@ Presearch gives tokens for searches, NeSE does not. As Presearch notes, the ince
 ## Monetization
 
 Presearch's primary monetization model appears to be [privacy-centric ads](https://medium.com/@presearch/newpresearchads-2a53b491d49). We can't say NeSE won't ever use ads but it is our intention to focus on attention based monetization - e.g. the sort of solutions Brave and Coil are delivering.
+
+## Transparency
+
+While there is significant information available on Presearch there is also a lot that seems to be missing. We intend to offer a much higher level of transparency with at least monthly reports on what we are up to.
 
 ## Bibliography / Further Reading
 

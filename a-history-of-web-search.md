@@ -143,6 +143,8 @@ We've found it difficult to find a comprehensive source of information on the hi
   * Had sophisticated auto-completion, related terms surfacing.
 * 2005 - December - **Yahoo** buys **Del.icio.us**.
 * 2006 - **Looksmart** closes **Zeal**.
+* 2006 - **Powerset** \(co-founded by **Barney Pell**, **Steve Newcomb**, **Lorenzo Thione**\) is developing a natural language search engine, it was based on research from **Xerox PARC**.
+  * 2008 - July - **Microsoft** acquires Powerset.
 * 2007 - **Sundar Kundayam** launches **Zakta**, a collaborative search engine.
   * As of 12/2019 the original Zakta collaborative search \(now known as **zGuide**s\) is down "for maintenance."
   * **Zakta Marketing** is a paid offering.
@@ -198,12 +200,14 @@ We've attempted to be somewhat comprehensive in our bibliography. Resources we f
   * [Microsoft Development Center Norway \(FAST\)](https://en.wikipedia.org/wiki/Microsoft_Development_Center_Norway)
   * [Mojeek](https://en.wikipedia.org/wiki/Mojeek)
   * [Nutch](https://en.wikipedia.org/wiki/Apache_Nutch)
+  * [Powerset](https://en.wikipedia.org/wiki/Powerset_%28company%29)
   * [Robots Exclusion Standard](https://en.wikipedia.org/wiki/Robots_exclusion_standard)
   * [SearchTeam](https://en.wikipedia.org/wiki/SearchTeam)
   * [Startpage](https://en.wikipedia.org/wiki/Startpage.com)
   * [Qwant](https://en.wikipedia.org/wiki/Qwant)
   * [WebCrawler](https://en.wikipedia.org/wiki/WebCrawler)
   * [World Wide Web Worm](https://en.wikipedia.org/wiki/World_Wide_Web_Worm)
+  * [YaCy](https://en.wikipedia.org/wiki/YaCy)
   * [Yippy](https://en.wikipedia.org/wiki/Yippy)
 * Joel Lee. [7 Search Engines That Rocked Before Google Even Exists](https://www.makeuseof.com/tag/7-search-engines-that-rocked-before-google-even-existed/). Mashable, 2015.
 * [Company Information and History](https://www.zapmeta.com/info/company_information). ZapMeta.

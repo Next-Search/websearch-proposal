@@ -17,9 +17,9 @@
 * [12.0 Conclusion](12-conclusion.md)
 * [Appendixes](appendixes.md)
   * [A. Recommended Reading & Resources](recommended-reading-resources.md)
-  * [B. A History of Web Search](appendixes/a-history-of-web-search.md)
-  * [C. The Current Search Landscape](appendixes/c.-the-current-search-landscape.md)
-  * [D. Just Getting Started](appendixes/d.-just-getting-started.md)
-  * [E. FAQ](appendixes/e.-faq.md)
+  * [B. A History of Web Search](a-history-of-web-search.md)
+  * [C. The Current Search Landscape](c.-the-current-search-landscape.md)
+  * [D. Just Getting Started](d.-just-getting-started.md)
+  * [E. FAQ](e.-faq.md)
   * [F. Web Identity](appendixes/f.-web-identity.md)
 

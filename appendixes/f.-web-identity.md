@@ -31,4 +31,13 @@ We are gathering resources on web identity. We welcome contributions.
     * [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on)
     * [Security Token](https://en.wikipedia.org/wiki/Security_token)
     * [Online Identity](https://en.wikipedia.org/wiki/Online_identity)
+* Implementations
+  * [WebAuthn](https://www.w3.org/TR/webauthn/)
+  * [Introduction to Identity on ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-3.1&tabs=visual-studio)
+  * [Decentralized Identifiers \(DIDs\)](https://www.w3.org/TR/did-core/)
+  * [Microsoft Decentralized Identity](https://www.microsoft.com/en-us/security/business/identity/own-your-identity)
+  * IndieAuth
+    * [Dweb: Identity for the Decentralized Web with IndieAuth](https://hacks.mozilla.org/2018/10/dweb-identity-for-the-decentralized-web-with-indieauth/).
+
+
 

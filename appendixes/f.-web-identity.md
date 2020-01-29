@@ -5,6 +5,7 @@ We are gathering resources on web identity. We welcome contributions.
 * Wikipedia
   * Standards/Implementations
     * [OpenID](https://en.wikipedia.org/wiki/OpenID)
+      * See also [OpenID Connect](https://en.wikipedia.org/wiki/OpenID_Connect)
     * [Shibboleth](https://en.wikipedia.org/wiki/Shibboleth_%28Shibboleth_Consortium%29)
     * [Security Assertion Markup Language \(SAML\)](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language)
     * [List of single sign-on implementations](https://en.wikipedia.org/wiki/List_of_single_sign-on_implementations)
@@ -29,4 +30,5 @@ We are gathering resources on web identity. We welcome contributions.
     * [Identity Provider](https://en.wikipedia.org/wiki/Identity_provider)
     * [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on)
     * [Security Token](https://en.wikipedia.org/wiki/Security_token)
+    * [Online Identity](https://en.wikipedia.org/wiki/Online_identity)
 

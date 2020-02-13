@@ -38,6 +38,7 @@ We are gathering resources on web identity. We welcome contributions.
   * [Microsoft Decentralized Identity](https://www.microsoft.com/en-us/security/business/identity/own-your-identity)
   * IndieAuth
     * [Dweb: Identity for the Decentralized Web with IndieAuth](https://hacks.mozilla.org/2018/10/dweb-identity-for-the-decentralized-web-with-indieauth/).
+  * 
 
 
 

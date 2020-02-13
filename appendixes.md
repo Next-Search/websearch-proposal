@@ -7,5 +7,4 @@ The following appendixes are useful but not necessary reading for those seeking 
 * [C. The Current Search Landscape](https://github.com/nextsearch/CurrentSearchLandscape)
 * D. Just Getting Started
 * E. FAQ
-* F. Web Identity
 

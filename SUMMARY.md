@@ -15,7 +15,7 @@
   * [11.0 The Team](11.0-the-team.md)
   * [10.1 Employees](10.1-employees.md)
 * [12.0 Conclusion](12-conclusion.md)
-* [Appendixes](appendixes/README.md)
+* [Appendixes](appendixes.md)
   * [A. Recommended Reading & Resources](recommended-reading-resources.md)
   * [B. A History of Web Search](a-history-of-web-search.md)
   * [C. The Current Search Landscape](c.-the-current-search-landscape.md)

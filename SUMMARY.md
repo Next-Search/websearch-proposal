@@ -1,25 +1,51 @@
 # Table of contents
 
-* [0.0 Introduction](README.md)
-* [0.1 Is It Really That Bad?](0.1-is-it-really-that-bad.md)
-* [1.0 For the Public Good](1.-for-the-public-good.md)
-* [2.0 Yes, Really, That Open](1.-really-that-open.md)
-* [3.0 You Own Your Data](2.-you-own-your-data.md)
-* [4.0 Private By Default](3.-private-by-default.md)
-* [5.0 The Trust Network](4.-the-trust-network.md)
-* [6.0 Why So Stale?](5.-why-so-stale.md)
-* [7.0 Faster Because Its Local](7.-faster-because-its-local.md)
-* [8.0 Advanced Beyond Our Years](8.-advanced.md)
-* [9.0 Monetization](6.-monetization.md)
-* [10.0 Company Culture](9.-company-culture.md)
-  * [11.0 The Team](11.0-the-team.md)
-  * [10.1 Employees](10.1-employees.md)
-* [12.0 Conclusion](12-conclusion.md)
-* [Appendixes](appendixes.md)
-  * [A. Recommended Reading & Resources](recommended-reading-resources.md)
-  * [B. A History of Web Search](a-history-of-web-search.md)
-  * [C. The Current Search Landscape](c.-the-current-search-landscape.md)
-  * [D. Just Getting Started](d.-just-getting-started.md)
-  * [E. FAQ](e.-faq.md)
-  * [F. Web Identity](appendixes/f.-web-identity.md)
+* [The Next Generation Search Engine Proposal](README.md)
+
+## Introduction
+
+* [Web Search is Primitive](introduction/web-search-is-primitive.md)
+* [Request for Comments](introduction/request-for-comments.md)
+
+## What's Wrong with Web Search?
+
+* [Poor Quality of Search Results](whats-wrong-with-web-search/poor-quality-of-search-results.md)
+* [Commercial Dominance of the Web](whats-wrong-with-web-search/commercial-dominance-of-the-web.md)
+* [Suppression of New \(and Better\) Content](whats-wrong-with-web-search/suppression-of-new-and-better-content.md)
+* [Poor Searcher Productivity](whats-wrong-with-web-search/poor-searcher-productivity.md)
+* [Lack of Competition](whats-wrong-with-web-search/lack-of-competition.md)
+* [Lack of Privacy](whats-wrong-with-web-search/lack-of-privacy.md)
+
+## How We Are Open
+
+* [Radically Open](how-we-are-open/radically-open.md)
+* [Open Data](how-we-are-open/radically-open-data.md)
+* [Open Algorithms](how-we-are-open/radically-open-algorithms.md)
+* [Open Finances](how-we-are-open/radically-open-finances.md)
+* [Radical Ownership](how-we-are-open/radical-ownership.md)
+
+## Your Ownership and Privacy
+
+* [Private by Default](your-ownership-and-privacy/private-by-default.md)
+* [Your Data](your-ownership-and-privacy/your-data.md)
+
+## How We Make Search Better
+
+---
+
+* [The Meat of It](the-meat-of-it.md)
+* [Fixing Stale Results](fixing-stale-results.md)
+* [Local First](local-first.md)
+* [Advanced Features](advanced-features.md)
+* [The Trust Network](the-trust-network.md)
+* [How We Monetize](how-we-monetize.md)
+
+## Appendixes <a id="appendixes-1"></a>
+
+* [Overview](appendixes-1/overview.md)
+* [FAQ](appendixes-1/faq.md)
+* [Making a Better World](appendixes-1/making-a-better-world.md)
+* [Corporate Culture](appendixes-1/corporate-culture.md)
+* [Outside Initial Scope](appendixes-1/outside-initial-scope.md)
+* [The Team](appendixes-1/11.0-the-team.md)
 

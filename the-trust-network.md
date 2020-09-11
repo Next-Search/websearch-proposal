@@ -68,6 +68,8 @@ It is likely that malicious activity will still occur through account compromise
 
 {% hint style="info" %}
 We want to acknowledge our significant indebtedness to the marvelous innovations in automatic trust calculations pioneered by [StackOverflow](https://stackoverflow.com/) and [Discourse](https://www.discourse.org/).
+
+Unfortunately, trusting someone to be correct is not the same as trusting someone to be kind. StackOverflow has published several [articles regarding making a kinder environment](https://stackoverflow.blog/?s=welcome+wagon). See also [here](https://stackoverflow.blog/2018/04/26/stack-overflow-isnt-very-welcoming-its-time-for-that-to-change/), [here](https://stackoverflow.blog/2019/03/28/the-next-ceo-of-stack-overflow/), [here](https://stackoverflow.blog/2020/04/09/the-unfriendly-robot-automatically-flagging-unwelcoming-comments/), and [here](https://stackoverflow.blog/2019/10/10/iterating-on-inclusion/).
 {% endhint %}
 
 

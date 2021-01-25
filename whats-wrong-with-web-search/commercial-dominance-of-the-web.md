@@ -2,7 +2,7 @@
 
 We believe that folks/organizations that work hard should see a good return \(monetarily\) on their labor. We are not opposed to commercial endeavors per se unless they significantly and detrimentally effect the public good.
 
-We believe that the commercialization of the web has been taken to such extent that it is having a significant and detrimental effect upon humanity. Further, we see this as being something which is reinforced \(unintentionally\) by major existing search engines in two forms:
+We believe that the commercialization of the web has been taken to such extent that it is having exactly this kind of significant and detrimental effect upon humanity. Further, we see this as being something which is reinforced \(unintentionally\) by major existing search engines in two forms:
 
 ## Paid Placements
 

@@ -2,6 +2,10 @@
 
 We believe that folks/organizations that work hard should see a good return \(monetarily\) on their labor. We are not opposed to commercial endeavors per se unless they significantly and detrimentally effect the public good.
 
+{% hint style="info" %}
+"...the search engines have the power to grant fortunes and to take them away - it is as if they are the builder of roads, stoplights, and front doors to every business online." - Alexander Halavais, _Search Engine Society_, 2017.
+{% endhint %}
+
 We believe that the commercialization of the web has been taken to such extent that it is having exactly this kind of significant and detrimental effect upon humanity. Further, we see this as being something which is reinforced \(unintentionally\) by major existing search engines in two forms:
 
 ## Paid Placements

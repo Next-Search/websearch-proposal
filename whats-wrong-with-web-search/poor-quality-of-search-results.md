@@ -14,13 +14,21 @@ Choose whatever product or service you like - refrigerator, laptop, bed, headpho
 
 Note also that while many of the reviews are quite lengthy the actual substance is insignificant. The text is long to appeal to search engines, the content is unnecessarily wordy for humans.
 
-Its easy to end up reading the same/similar review on multiple sites before finding unique content.
+It is easy to end up reading the same/similar review on multiple sites before finding unique content.
 
-This is certainly not the ideal.
+This is certainly not ideal.
 
 ## Query: "CNN" or "Fox News" or "{Organization Name}"
 
 Note how the results are often dominated by the organization itself \(not entirely unreasonable\). With many organizations \(e.g. news\) there are also numerous duplicates from sites that are syndicated \(do we really want to see the same story as published on CNN and APNews?\).
 
-Sure one can use query operators to refine the results \(but how many people do you know who use them...are even aware that they exist?\) but especially with any content that is syndicated the number of sites that need to be excluded can become quite lengthy and must be recreated for each query.
+Sure one can use query operators to refine the results \(but how many people do you know who use them or are even aware that they exist?\) but especially with any content that is syndicated the number of sites that need to be excluded can become quite lengthy and must be recreated for each query.
 
+## Query: Any Medical Topic
+
+Medical topics, oftentimes of critical importance to the search, return notoriously poor results. These results suffer from:
+
+- Incorrect Information - Oftentimes sincere, this information is untested and sometimes dangerous.
+- Incomplete Information - Does not provide enough information for an individual to take informed action.
+- Redundant Information - A number of larger medical sites provide primarily redundant information regarding the cause, diagnosis, treatment, prospects, etc.
+- Commercial Information - Treatments of questionable value are marketed to individuals at high costs.

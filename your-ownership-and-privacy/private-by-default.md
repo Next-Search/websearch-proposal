@@ -23,7 +23,7 @@ We see [Proton Mail](https://protonmail.com/) as a great example of how such a s
 {% endhint %}
 
 {% hint style="info" %}
-"Encrypted storage - The use of cryptography to mathematically encrypt and decrypt data, both at-rest and in-motion." - Web 3.0 Technology Stack L2 Encrypted Storage Definition from the [web3 Foundation](https://web3.foundation/about/).
+> _"Encrypted storage - The use of cryptography to mathematically encrypt and decrypt data, both at-rest and in-motion." - Web 3.0 Technology Stack L2 Encrypted Storage Definition from the [web3 Foundation](https://web3.foundation/about/)._
 {% endhint %}
 ## Selectively Private Accounts
 

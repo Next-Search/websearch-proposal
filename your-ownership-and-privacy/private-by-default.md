@@ -24,6 +24,7 @@ We see [Proton Mail](https://protonmail.com/) as a great example of how such a s
 
 {% hint style="info" %}
 "Encrypted storage - The use of cryptography to mathematically encrypt and decrypt data, both at-rest and in-motion." - Web 3.0 Technology Stack L2 Encrypted Storage Definition from the [web3 Foundation](https://web3.foundation/about/).
+{% endhint %}
 ## Selectively Private Accounts
 
 Optionally, you will be able to share your data with us, with select other parties, or with the whole world on a granular level.

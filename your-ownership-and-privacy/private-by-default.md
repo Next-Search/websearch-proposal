@@ -4,7 +4,7 @@ A large part of our engine's uniqueness is the way it can utilize feedback from 
 
 ## Complete Anonymity
 
-So individuals who come and browser the site without creating an account will have their searches private by default.
+Individuals who come and browse the site without creating an account will have their searches private by default.
 
 {% hint style="info" %}
 We aren't afraid to admit that [DuckDuckGo](https://duckduckgo.com/) has set the standard here and we intend to emulate them. We admire DDG and their work.
@@ -16,12 +16,14 @@ We aren't afraid to admit that [DuckDuckGo](https://duckduckgo.com/) has set the
 
 Individuals who register for an account will be able to create the account without connecting other parts of their identity to the account \(e.g. email address, social network provider\). When you sign up for an account you'll be able to choose your storage provider and whether you want us to save your queries or forget them.
 
-Assuming an individual wants their queries saved it will be in the location of their choice and attached to them only be an account which has no ties to their identity inherent in it.
+Assuming an individual wants their queries saved it will be in the location of their choice and attached to them only by an account which has no ties to their identity inherent in it.
 
 {% hint style="info" %}
 We see [Proton Mail](https://protonmail.com/) as a great example of how such a service can be offered. One can create an email account without attaching some form of identity verification to it. We hope to emulate their approach.
 {% endhint %}
 
+{% hint style="info" %}
+"Encrypted storage - The use of cryptography to mathematically encrypt and decrypt data, both at-rest and in-motion." - Web 3.0 Technology Stack L2 Encrypted Storage Definition from the [web3 Foundation](https://web3.foundation/about/).
 ## Selectively Private Accounts
 
 Optionally, you will be able to share your data with us, with select other parties, or with the whole world on a granular level.

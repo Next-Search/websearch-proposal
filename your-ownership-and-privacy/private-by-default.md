@@ -22,9 +22,6 @@ Assuming an individual wants their queries saved it will be in the location of t
 We see [Proton Mail](https://protonmail.com/) as a great example of how such a service can be offered. One can create an email account without attaching some form of identity verification to it. We hope to emulate their approach.
 {% endhint %}
 
-{% hint style="info" %}
-> _"Encrypted storage - The use of cryptography to mathematically encrypt and decrypt data, both at-rest and in-motion." - Web 3.0 Technology Stack L2 Encrypted Storage Definition from the [web3 Foundation](https://web3.foundation/about/)._
-{% endhint %}
 ## Selectively Private Accounts
 
 Optionally, you will be able to share your data with us, with select other parties, or with the whole world on a granular level.
@@ -35,5 +32,6 @@ These accounts invert our private by default practices and allow individuals to 
 
 You will be able to control the content that is displayed on a granular level just as other accounts can but the default will be your data is public for all to see.
 
-> _"I include a lot of personal health data, test files, what bacteria live in my poop \(yes, really\). Feel free to share all this. I don’t care about my privacy." --_ [_Serge Faguet_](https://hackernoon.com/im-32-and-spent-200k-on-biohacking-became-calmer-thinner-extroverted-healthier-happier-2a2e846ae113)_._
+> _"I include a lot of personal health data, test files, what bacteria live in my poop \(yes, really\). Feel free to share all this. I don’t care about my privacy."   
+-- [Serge Faguet](https://hackernoon.com/im-32-and-spent-200k-on-biohacking-became-calmer-thinner-extroverted-healthier-happier-2a2e846ae113)._
 

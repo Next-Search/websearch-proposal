@@ -1,0 +1,70 @@
+1. What is Wrong With Search?
+    - Privacy
+    - Commercialization
+        - Ads
+        - Organic
+    - Monopolization
+    - Suboptimal Productivity
+    - Stagnant Rankings
+    - Results Quality
+1. Is It Possible?
+    - Same Methods / Different Methods
+1. Building A Better Future With Search
+    - Privacy
+        - Complete / Anonymous / Selective / Public
+    - Radical Ownership
+        - Data Is Where You Want
+            - Local / Our / Third Party (Google, Microsoft, Dropbox) / Self-Hosted / Distributed Hosting (SOLID, Blockstack, Filecoin)
+            - Take It With You
+    - Radically Open
+        - Data
+        - Algorithms
+    - Trust Network
+        - Trust Granted By Trusted User
+        - Significant Contributions Over Time
+        - Verify Identity
+        - Verify Credentials
+        - Ensuring Equitable Ownership
+            - Actively seek
+            - Receive applications
+            - Integrate multiple perspectives
+        - Preventing Malicious Behavior
+            - Grantor gives proportional trust to Grantee
+            - Grantor is penalized if Grantee misbehaves
+            - Grantor may be exponentially penalized for trusting malicious accounts
+            - Grantor/Grantee Relationship Extends Multiple Levels
+            - Discourse / StackOverflow
+    - Human Power
+        - Monetary (Quora)
+        - Authority (IRL, StackOverflow)
+        - Discovery (Reddit, Pinterest)
+        - Weighted Influence on Query Results
+    - Advanced Functionality
+        - Simple
+        - Customizable
+            - Just These Sites
+            - Not These Sites
+            - Add/Edit/Remove/Reorder Sites
+            - Specific Sites as Preferred Results for Queries
+            - Fresh Results (New To You)
+            - Trust User Impact on Results
+            - Multiple Perspectives
+1. Build It And They Will Come?
+    - If Its Seismically Better
+    - Through Protocol Labs
+    - Target Academic, Scientifc, Technical Audiences
+    - Build First, Then Distribute (lowers barrier to entry)
+1. Building An Even Better Future With Search
+    - Local First
+        - Native Application/Extension
+        - Advanced Bookmarking, Highlighting, Annotations, Save for Later
+        - Explicit Permissions
+        - Eventual Distributed Power (Opt-In)
+    - E2E Encryption
+    - Research Grade Querying
+        - Regular Expressions
+    - Relationships Between Content
+        - Reduce Duplicates
+        - Subsume Similar
+        - Highlight Different
+    - Quality of Content Improvements

@@ -60,6 +60,8 @@
         - Advanced Bookmarking, Highlighting, Annotations, Save for Later
         - Explicit Permissions
         - Eventual Distributed Power (Opt-In)
+        - Cache Past Query Results
+        - Sync Data to Expedite Queries
     - E2E Encryption
     - Research Grade Querying
         - Regular Expressions

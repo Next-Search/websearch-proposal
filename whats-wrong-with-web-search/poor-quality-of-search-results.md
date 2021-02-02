@@ -43,4 +43,4 @@ __Results__: Medical topics, oftentimes of critical importance to the searcher, 
 - Commercial Information - Treatments of questionable value are marketed to individuals at high costs.
 
 ## Conclusion
-We could go on _ad nauseum_ with example of poor quality search results but we don't want to bore you. If you need more examples, [reach out to us](introduction/request-for-comments.md).
+We could go on _ad nauseum_ with example of poor quality search results but we don't want to bore you. If you need more examples, [reach out to us](../introduction/request-for-comments.md).

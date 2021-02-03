@@ -9,7 +9,7 @@ That said, we have a number of other "ideas" sitting in the wings which we hope 
 
 ## Relationships Between Content
 
-We believe that an analysis of page content can help us determine the similarity of pages in the information they present. Rather than showing every result with similar content at the top of NeSE's results we can make each result expandable with the very similar content listed beneath.
+We believe that an analysis of page content can help us determine the similarity of pages in the information they present. Rather than showing every result with similar content at the top of _Phoebe's_ results we can make each result expandable with the very similar content listed beneath.
 
 This will allow searchers to access all of the content available on a topic but will also emphasize content which provides unique qualities. Usually one does not need near identical instructions on a subject from multiple sources. Instead one may desire a brief introductory article, a more extended treatment, and perhaps several alternative views.
 
@@ -29,7 +29,7 @@ The number of spelling, grammar, and factual errors present on websites, even th
 
 This would involve a browser extension on the end user's side which would allow for client side editing of third party site's \(at least text\). On the server side the CMS would utilize a plugin which would allow website owner's to review recommendations and if found to be valuable automatically apply the updates to their content.
 
-This system would be another use for The Trust Network and another way in which users could gain authority on NeSE.
+This system would be another use for The Trust Network and another way in which users could gain authority on _Phoebe_.
 
 We believe this could also open the way for paid crowdsourcing of materials that would significant improve content quality and clarity.
 

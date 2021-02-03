@@ -32,8 +32,6 @@
 
 ## How We Make Search Better
 
----
-
 * [Fixing Stale Results](fixing-stale-results.md)
 * [Local First](local-first.md)
 * [Advanced Features](advanced-features.md)

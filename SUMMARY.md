@@ -12,7 +12,7 @@
 
 * [Poor Quality of Search Results](whats-wrong-with-web-search/poor-quality-of-search-results.md)
 * [Commercial Dominance of the Web](whats-wrong-with-web-search/commercial-dominance-of-the-web.md)
-* [Suppression of New \(and Better\) Content](whats-wrong-with-web-search/suppression-of-new-and-better-content.md)
+* [Suppression of Better Content](whats-wrong-with-web-search/suppression-of-new-and-better-content.md)
 * [Poor Searcher Productivity](whats-wrong-with-web-search/poor-searcher-productivity.md)
 * [Lack of Competition](whats-wrong-with-web-search/lack-of-competition.md)
 * [Lack of Privacy](whats-wrong-with-web-search/lack-of-privacy.md)

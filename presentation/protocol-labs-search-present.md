@@ -54,6 +54,8 @@
     - Through Protocol Labs
     - Target Academic, Scientifc, Technical Audiences
     - Build First, Then Distribute (lowers barrier to entry)
+1. Build With What?
+    - Solr, Lucene, CommonCrawl, Nutch
 1. Building An Even Better Future With Search
     - Local First
         - Native Application/Extension

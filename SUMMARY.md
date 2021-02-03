@@ -40,9 +40,9 @@
 
 ## Appendixes <a id="appendixes-1"></a>
 
-* [Overview](appendixes/overview.md)
-* [Making a Better World](appendixes/making-a-better-world.md)
-* [Outside Initial Scope](appendixes/outside-initial-scope.md)
+* [Overview](appendixes-1/overview.md)
+* [Making a Better World](appendixes-1/making-a-better-world.md)
+* [Outside Initial Scope](appendixes-1/outside-initial-scope.md)
 * [History of Web Search](https://github.com/nextsearch/HistoryOfWebSearch)
 * [The History of Web Search](https://github.com/nextsearch/CurrentSearchLandscape)
 

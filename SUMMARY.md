@@ -23,10 +23,10 @@
 * [Open Data](how-we-are-open/radically-open-data.md)
 * [Open Algorithms](how-we-are-open/radically-open-algorithms.md)
 * [Open Finances](how-we-are-open/radically-open-finances.md)
-* [Radical Ownership](how-we-are-open/radical-ownership.md)
 
 ## Your Ownership and Privacy
 
+* [Radical Ownership](your-ownership-and-privacy/radical-ownership.md)
 * [Private by Default](your-ownership-and-privacy/private-by-default.md)
 * [Your Data](your-ownership-and-privacy/your-data.md)
 

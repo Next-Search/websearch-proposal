@@ -57,7 +57,7 @@
 1. Building An Even Better Future With Search
     - Local First
         - Native Application/Extension
-        - Advanced Bookmarking, Highlighting, Annotations, Save for Later
+        - Advanced Bookmarking, Highlighting, Annotations, Save for Later, Tagging
         - Explicit Permissions
         - Eventual Distributed Power (Opt-In)
         - Cache Past Query Results

@@ -43,6 +43,5 @@
 * [Overview](appendixes/overview.md)
 * [FAQ](appendixes/faq.md)
 * [Making a Better World](appendixes/making-a-better-world.md)
-* [Corporate Culture](appendixes/corporate-culture.md)
 * [Outside Initial Scope](appendixes/outside-initial-scope.md)
 

@@ -6,9 +6,7 @@
 
 We believe that folks/organizations that work hard should see a good return \(monetarily\) on their labor. We are not opposed to commercial endeavors _per se_ unless they have a significant detrimental effect on the public good.
 
-We believe that the extent to which the web has been commercialized is causing significant detriment to humanity. Further, we see this as being something which is reinforced \(unintentionally\)
-
-We believe that the commercialization of the web has been taken to such an extent that it is having exactly this kind of significant and detrimental effect upon humanity. Further, we see this as being something which is reinforced \(unintentionally\) by major existing search engines in two forms:
+We believe that the commercialization of the web has been taken to such an extent that it is having exactly this kind of negative effect on humanity. Further, we see this as being something which is reinforced \(unintentionally\) by major existing search engines in two forms:
 
 ## 1. Paid Placements
 
@@ -17,7 +15,11 @@ The organization with the most money can dominate the search results of several 
 There is currently a wide ranging discussion on whether search engine results should have ads on them at all.
 
 {% hint style="info" %}
-While we are not \(philosophically\) opposed to ads on search result pages we believe Phoebe monetize search through less controversial methods.
+There is currently a discussion on whether search engine results should have ads on them at all. While we are not \(completely\) opposed to ads on search result pages we believe Phoebe can monetize search through less controversial methods.
+{% endhint %}
+
+{% hint style="info" %}
+"\[W\]e expect that advertising funded search engines will be inherently biased towards the advertisers and away from the needs of the consumers....Furthermore, advertising income often provides an incentive to provide poor quality search results." - Segrey Brin and Lawrence Page, original co-founders of Google, in [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html).
 {% endhint %}
 
 ## 2. Manipulated  Organic Placements
@@ -29,4 +31,8 @@ Search engines change their algorithms frequently to help diminish the worst off
 {% hint style="info" %}
 We are not opposed to SEO or SEM. We are concerned about implementing processes that ensure the BEST content is shown first, not just the content that has been most optimized.
 {% endhint %}
+
+## Further Resources
+
+* For a good overview of the effort required to successfully optimize a site for search engine traffic see [Moz's How to Rank on Google: 25-Step Master SEO Checklist](https://moz.com/how-to-rank). For a more detailed read see [Moz's The Beginner's Guide to SEO: Rankings and Traffic Through Search Engine Optimization](https://moz.com/beginners-guide-to-seo).
 

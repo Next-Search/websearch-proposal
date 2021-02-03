@@ -1,29 +1,29 @@
 # How We Monetize
 
-NeSE will cost money to implement, maintain, and scale. How will NeSE monetize itself in a sustainable way? At the moment we have three primary methods in mind:
+_Phoebe_ will cost money to implement, maintain, and scale. How will _Phoebe_ monetize itself in a sustainable way? At the moment we have three primary methods in mind:
 
 ### Attention-Based Revenue
 
-That is, we are interested in the revenues available through the [Basic Attention Token](https://basicattentiontoken.org/), [Coil](https://coil.com), and similar services. We believe this means of monetization will be rapidly expanding in the next few years.
+That is, we are interested in the revenues available through the [Basic Attention Token](https://basicattentiontoken.org/) \(BAT\), [Coil](https://coil.com), and similar services. We believe this means of monetization will be rapidly expanding in the next few years as advertising revenues decline.
 
 ### Site Submissions
 
-As we've noted earlier, request a site be added to the index for free but adding a large number of sites will cost a nominal fee.
+Requesting a site be added to the index will be free but adding a large number of sites will cost a nominal fee.
 
 {% hint style="info" %}
-Nominal can mean a lot of things to different people. Our current thought is $1 per URL above a limited free number of sites \(which automatically reload after a period of time\).
+Nominal can mean a lot of things to different people. Our current thought is $1 per URL above a limited free number of sites \(which automatically reload after a period of time\). This would be adjusted appropriately based on local currencies.
 {% endhint %}
 
 ### Research Grade Querying
 
-One of the current limitations of search engines is their inability to handle extremely complicated queries. This is understandable as the computational cost for such queries is quite high. We believe there is room for a credits system in which researcher could perform intensive queries on indexing servers dedicated to this purpose for a small fee.
+One of the current limitations of search engines is their inability to handle extremely complicated queries. This is understandable as the computational cost for such queries is quite high. We believe there is room for a credits system in which researchers could perform intensive queries on indexing servers dedicated to this purpose for a small fee.
 
 {% hint style="info" %}
 [World Wide Web Worm](https://en.wikipedia.org/wiki/World_Wide_Web_Worm) supported regular expression queries, while computationally intensive we'd love to make these available at a research grade querying level.
 {% endhint %}
 
 {% hint style="info" %}
-Researchers could use the openly available data to perform similar queries but the querying service provided by NeSE would not require the sort of advanced data analysis knowledge nor software that one would need to perform the query using the open data. We believe we can offer an affordable and friendly querying system which individuals will tend to use due to its ease of use.
+Researchers could use the openly available data to perform similar queries but the querying service provided by _Phoebe_ would not require the sort of advanced data analysis expertise nor software that is required to perform the query using currently available open data. We believe we can offer an affordable and friendly querying system which individuals will utilize for its simplicitly and productivity.
 {% endhint %}
 
 ### Ads?

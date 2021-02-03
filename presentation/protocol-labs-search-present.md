@@ -1,78 +1,81 @@
-1. What is Wrong With Search?
-    - Privacy
-    - Commercialization
-        - Ads
-        - Organic
-    - Monopolization
-    - Suboptimal Productivity
-    - Stagnant Rankings
-    - Results Quality
-1. Is It Possible?
-    - Same Methods / Different Methods
-1. Building A Better Future With Search
-    - Privacy
-        - Complete / Anonymous / Selective / Public
-    - Radical Ownership
-        - Data Is Where You Want
-            - Local / Our / Third Party (Google, Microsoft, Dropbox) / Self-Hosted / Distributed Hosting (SOLID, Blockstack, Filecoin)
-        - Take It With You
-    - Radically Open
-        - Data
-        - Algorithms
-    - Trust Network
+# What is Wrong With Search?
+- Privacy Concerns
+- Commercialization
+    - Ads
+    - Organic
+- Monopolization
+- Inhibited Productivity
+- Stagnant Rankings
+- Results Quality
+
+# Is It Possible?
+- Same Methods / Different Methods
+
+# Building A Better Future With Search
+- Privacy
+    - Complete / Anonymous / Selective / Public
+- Radical Ownership
+    - Data Is Where You Want / You Own It
+        - Local / Self-Hosted (nextcloud) / Distributed Hosting (SOLID, Blockstack, Filecoin) / Our / Third Party (Google, Microsoft, Dropbox)  
+- Radically Open
+    - Data
+    - Algorithms
+- Human Enhanced (Trust Network)
+    - Acquiring Trust
         - Trust Granted By Trusted User
-        - Significant Contributions Over Time
-        - Verify Identity
-        - Verify Credentials
-        - Ensuring Equitable Ownership
-            - Actively seek
-            - Receive applications
-            - Integrate multiple perspectives
-        - Preventing Malicious Behavior
-            - Grantor gives proportional trust to Grantee
-            - Grantor is penalized if Grantee misbehaves
-            - Grantor may be exponentially penalized for trusting malicious accounts
-            - Grantor/Grantee Relationship Extends Multiple Levels
-            - Discourse / StackOverflow
-    - Human Power
+        - Contributions Over Time
+        - Verified Identity
+        - Verified Credentials
+    - Mitigating Malicious Behavior
+        - Grantor gives proportional trust to Grantee
+        - Grantor is penalized if Grantee misbehaves
+            - Grantor/Grantee Relationship is Multi-Level
+            - Grantor may be logarithmically penalized for trusting multiple malicious accounts
+        - Trust Anchors
+        - Discourse / StackOverflow
+    - Ensuring Equitable Ownership
+        - Diverse working group
+        - Actively seek
+        - Receive applications
+        - Integrate multiple perspectives
+    - Incentivation
+        - IRL (StackOverflow)
         - Monetary (Quora)
-        - Authority (IRL, StackOverflow)
         - Discovery (Reddit, Pinterest)
-        - Weighted Influence on Query Results
-    - Advanced Functionality
-        - Simple
-        - Customizable
-            - Just These Sites
-            - Not These Sites
-            - Add/Edit/Remove/Reorder Sites
-            - Specific Sites as Preferred Results for Queries
-            - Fresh Results (New To You)
-            - Trust User Impact on Results
-            - Multiple Perspectives
-1. Build It And They Will Come?
-    - If Its Seismically Better
-    - Through Protocol Labs
-    - Target Academic, Scientific, Technical Audiences
-    - Build First, Then Distribute (lowers barrier to entry)
-1. Getting Started
-    - Indexing and Summary of Key Research, Historical Progress, Technical Tools.
-        - Solr, Lucene, CommonCrawl, Nutch, Riot, Elasticsearch
-    - Accessible and Reusable Standard for Assessing Search Engine Results Quality.
-    - Quantitative and Qualitative Measurements of Current SERQ of Google.
-    - MVP Search Engine to Demonstrate Potential.
-1. Building An Even Better Future With Search
-    - Local First
-        - Native Application/Extension
-        - Advanced Bookmarking, Highlighting, Annotations, Save for Later, Tagging
-        - Explicit Permissions
-        - Eventual Distributed Power (Opt-In)
-        - Cache Past Query Results
-        - Sync Data to Expedite Queries
-    - E2E Encryption
-    - Research Grade Querying
-        - Regular Expressions
-    - Relationships Between Content
-        - Reduce Duplicates
-        - Subsume Similar
-        - Highlight Different
+        - Productivity Boosting
+            - Simple
+            - Customizable
+                - Just / Not These Sites
+                - Add/Edit/Remove/Reorder Sites
+                - Tagging
+                - Specific Sites as Preferred Results for Queries
+                - Fresh Results (New To You)
+                - Trust User Impact on Results
+# Building An Even Better Future With Search
+- Local First
+    - Native Application/Extension - Makes it perfom better.
+    - Advanced Bookmarking, Highlighting, Annotations, Save for Later
+    - Explicit Permissions
+    - Eventually Distributed (Opt-In)
+    - Cache Past Query Results
+    - Caching Search UI
+    - Sync Data to Expedite Queries
+- Relationships Between Content
+    - Reduce Duplicates
+    - Subsume Similar
+    - Highlight Different
     - Quality of Content Improvements
+- E2E Encryption and ZK
+- Research Grade Querying
+    - Regular Expressions
+
+# Getting Started
+- Accessible and Reusable Standard for Assessing Search Engine Results Quality.
+- Quantitative and Qualitative Measurements of Current SERQ of Google.
+- MVP Search Engine to Demonstrate Potential.
+# Build It And They Will Come?
+- If Its Seismically Better
+- Through Protocol Labs
+- Target Academic, Scientific, Technical Audiences
+- Build First, Then Distribute (lowers barrier to entry)
+

@@ -12,10 +12,14 @@ If you want the benefits that come with having your queries saved, you'll be abl
 * On a self-hosted solution \(perhaps a [SOLID Pod](https://solid.inrupt.com/), [Blockstack's Gaia](https://github.com/blockstack/gaia), [Filecoin](https://filecoin.io/) or your own personal NAS\).
 
 {% hint style="info" %}
-If you are interested in the technical side of things check out [unhosted web apps](https://unhosted.org/) and [remoteStorage](https://remotestorage.io/) as well.
+If you are interested in the technical side of things check out [unhosted web apps](https://unhosted.org/) and [remoteStorage](https://remotestorage.io/).
 {% endhint %}
 
-If you want your data it will be readily available for export. We will make sure the exported data is in a form easily consumable by human and machine readers \(e.g. JSON\) so that other services can easily consume this data \(if you want them to\) to improve their services to you.
+If you want your data it will be readily available for export. We will make sure the exported data is in a format easily consumable by human and machine readers \(e.g. JSON\) so that other services can easily consume this data \(if you want them to\) to improve their services to you.
+
+{% hint style="info" %}
+Our hope is that search engines \(in particular\) will agree on a shared format for user data so that a user can easily export their data from one search engine and move it to another.
+{% endhint %}
 
 ## Encryption
 

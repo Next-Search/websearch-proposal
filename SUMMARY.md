@@ -6,6 +6,7 @@
 
 * [Web Search is Primitive](introduction/web-search-is-primitive.md)
 * [Request for Comments](introduction/request-for-comments.md)
+* [Defining Terms](introduction/defining-terms.md)
 
 ## What's Wrong with Web Search?
 
@@ -33,7 +34,6 @@
 
 ---
 
-* [The Meat of It](the-meat-of-it.md)
 * [Fixing Stale Results](fixing-stale-results.md)
 * [Local First](local-first.md)
 * [Advanced Features](advanced-features.md)

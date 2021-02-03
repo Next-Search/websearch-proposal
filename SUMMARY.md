@@ -44,4 +44,9 @@
 * [FAQ](appendixes-1/faq.md)
 * [Making a Better World](appendixes-1/making-a-better-world.md)
 * [Outside Initial Scope](appendixes-1/outside-initial-scope.md)
+* [History of Web Search](https://github.com/nextsearch/HistoryOfWebSearch)
+
+---
+
+* [The History of Web Search](https://github.com/nextsearch/CurrentSearchLandscape)
 

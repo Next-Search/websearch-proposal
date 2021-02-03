@@ -34,5 +34,7 @@ We are not opposed to SEO or SEM. We are concerned about implementing processes 
 
 ## Further Resources
 
-* For a good overview of the effort required to successfully optimize a site for search engine traffic see [Moz's How to Rank on Google: 25-Step Master SEO Checklist](https://moz.com/how-to-rank). For a more detailed read see [Moz's The Beginner's Guide to SEO: Rankings and Traffic Through Search Engine Optimization](https://moz.com/beginners-guide-to-seo).
+* For a good overview of the effort required to successfully optimize a site for search engine traffic see Moz's [How to Rank on Google: 25-Step Master SEO Checklist](https://moz.com/how-to-rank). For a more detailed read see Moz's [The Beginner's Guide to SEO: Rankings and Traffic Through Search Engine Optimization](https://moz.com/beginners-guide-to-seo).
+* Search Engine Journal's [A Complete Guide to SEO: What You Need to Know](https://www.searchenginejournal.com/seo-guide/).
+* Brian Dean's [Google's Ranking Factors: The Complete List \(2021\)](https://backlinko.com/google-ranking-factors). 
 

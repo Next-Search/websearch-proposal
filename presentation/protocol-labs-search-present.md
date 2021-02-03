@@ -15,7 +15,7 @@
     - Radical Ownership
         - Data Is Where You Want
             - Local / Our / Third Party (Google, Microsoft, Dropbox) / Self-Hosted / Distributed Hosting (SOLID, Blockstack, Filecoin)
-            - Take It With You
+        - Take It With You
     - Radically Open
         - Data
         - Algorithms
@@ -52,10 +52,14 @@
 1. Build It And They Will Come?
     - If Its Seismically Better
     - Through Protocol Labs
-    - Target Academic, Scientifc, Technical Audiences
+    - Target Academic, Scientific, Technical Audiences
     - Build First, Then Distribute (lowers barrier to entry)
-1. Build With What?
-    - Solr, Lucene, CommonCrawl, Nutch
+1. Getting Started
+    - Indexing and Summary of Key Research, Historical Progress, Technical Tools.
+        - Solr, Lucene, CommonCrawl, Nutch, Riot, Elasticsearch
+    - Accessible and Reusable Standard for Assessing Search Engine Results Quality.
+    - Quantitative and Qualitative Measurements of Current SERQ of Google.
+    - MVP Search Engine to Demonstrate Potential.
 1. Building An Even Better Future With Search
     - Local First
         - Native Application/Extension

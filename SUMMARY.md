@@ -45,5 +45,4 @@
 * [Making a Better World](appendixes/making-a-better-world.md)
 * [Corporate Culture](appendixes/corporate-culture.md)
 * [Outside Initial Scope](appendixes/outside-initial-scope.md)
-* [The Team](appendixes/11.0-the-team.md)
 

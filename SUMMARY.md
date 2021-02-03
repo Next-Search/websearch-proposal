@@ -32,16 +32,16 @@
 
 ## How We Make Search Better
 
-* [Fixing Stale Results](fixing-stale-results.md)
-* [Local First](local-first.md)
-* [Advanced Features](advanced-features.md)
-* [The Trust Network](the-trust-network.md)
-* [How We Monetize](how-we-monetize.md)
+* [Fixing Stale Results](how-we-make-search-better/fixing-stale-results.md)
+* [Local First](how-we-make-search-better/local-first.md)
+* [Advanced Features](how-we-make-search-better/advanced-features.md)
+* [The Trust Network](how-we-make-search-better/the-trust-network.md)
+* [How We Monetize](how-we-make-search-better/how-we-monetize.md)
 
 ## Appendixes <a id="appendixes-1"></a>
 
-* [Overview](appendixes/overview.md)
-* [FAQ](appendixes/faq.md)
-* [Making a Better World](appendixes/making-a-better-world.md)
-* [Outside Initial Scope](appendixes/outside-initial-scope.md)
+* [Overview](appendixes-1/overview.md)
+* [FAQ](appendixes-1/faq.md)
+* [Making a Better World](appendixes-1/making-a-better-world.md)
+* [Outside Initial Scope](appendixes-1/outside-initial-scope.md)
 

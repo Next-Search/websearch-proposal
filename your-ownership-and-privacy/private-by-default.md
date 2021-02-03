@@ -32,8 +32,10 @@ These accounts invert our private by default practices and allow individuals to 
 
 You will be able to control the content that is displayed on a granular level just as other accounts can but the default will be your data is public for all to see.
 
-> _"I include a lot of personal health data, test files, what bacteria live in my poop \(yes, really\). Feel free to share all this. I don’t care about my privacy."   
--- [Serge Faguet](https://hackernoon.com/im-32-and-spent-200k-on-biohacking-became-calmer-thinner-extroverted-healthier-happier-2a2e846ae113)._
+> _"I include a lot of personal health data, test files, what bacteria live in my poop \(yes, really\). Feel free to share all this. I don’t care about my privacy."  
+> --_ [_Serge Faguet_](https://hackernoon.com/im-32-and-spent-200k-on-biohacking-became-calmer-thinner-extroverted-healthier-happier-2a2e846ae113)_._
 
 ## For Future Consideration
-- [Evan Miyazono](https://github.com/miyazono) has a [Draft Open Problem Statement regarding identity verification](https://github.com/protocol/research/issues/10) which outlines some of the difficulties with current options and potential functionality for a future solution.
+
+* [Evan Miyazono](https://github.com/miyazono) has a [Draft Open Problem Statement regarding identity verification](https://github.com/protocol/research/issues/10) which outlines some of the difficulties with current options and potential functionality for a future solution.
+

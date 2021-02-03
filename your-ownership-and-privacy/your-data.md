@@ -18,5 +18,6 @@ If you are interested in the technical side of things check out [unhosted web ap
 If you want your data it will be readily available for export. We will make sure the exported data is in a form easily consumable by human and machine readers \(e.g. JSON\) so that other services can easily consume this data \(if you want them to\) to improve their services to you.
 
 ## Encryption
-We aspire to fulfill the Web 3.0 Technology Stack L2 Data Encryption standard promulgated by the [web3 foundation](https://web3.foundation/about/) which requires data to be encrypted both at rest (e.g. your local computer) and in transit (e.g. being sent to/from the data storage provider).
+
+We aspire to fulfill the Web 3.0 Technology Stack L2 Data Encryption standard promulgated by the [web3 foundation](https://web3.foundation/about/) which requires data to be encrypted both at rest \(e.g. your local computer\) and in transit \(e.g. being sent to/from the data storage provider\).
 

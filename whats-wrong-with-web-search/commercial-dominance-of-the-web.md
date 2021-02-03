@@ -4,9 +4,9 @@
 "...the search engines have the power to grant fortunes and to take them away - it is as if they are the builder of roads, stoplights, and front doors to every business online." - Alexander Halavais, _Search Engine Society_, 2017.
 {% endhint %}
 
-We believe that folks/organizations that work hard should see a good return (monetarily) on their labor. We are not opposed to commercial endeavors _per se_ unless they have a significant detrimental effect on the public good.
+We believe that folks/organizations that work hard should see a good return \(monetarily\) on their labor. We are not opposed to commercial endeavors _per se_ unless they have a significant detrimental effect on the public good.
 
-We believe that the extent to which the web has been commercialized is causing significant detriment to humanity. Further, we see this as being something which is reinforced (unintentionally)
+We believe that the extent to which the web has been commercialized is causing significant detriment to humanity. Further, we see this as being something which is reinforced \(unintentionally\)
 
 We believe that the commercialization of the web has been taken to such an extent that it is having exactly this kind of significant and detrimental effect upon humanity. Further, we see this as being something which is reinforced \(unintentionally\) by major existing search engines in two forms:
 
@@ -17,7 +17,7 @@ The organization with the most money can dominate the search results of several 
 There is currently a wide ranging discussion on whether search engine results should have ads on them at all.
 
 {% hint style="info" %}
-While we are not (philosophically) opposed to ads on search result pages we believe Phoebe monetize search through less controversial methods.
+While we are not \(philosophically\) opposed to ads on search result pages we believe Phoebe monetize search through less controversial methods.
 {% endhint %}
 
 ## 2. Manipulated  Organic Placements

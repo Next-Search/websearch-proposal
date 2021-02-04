@@ -70,9 +70,13 @@
     - Regular Expressions
 
 # Getting Started
-- Accessible and Reusable Standard for Assessing Search Engine Results Quality.
-- Quantitative and Qualitative Measurements of Current SERQ of Google.
-- MVP Search Engine to Demonstrate Potential.
+- Research & Publish
+    - Accessible and Reusable Standard for Assessing Search Engine Results Quality.
+    - Quantitative and Qualitative Measurements of Current SERQ of Google.
+- MVP Search Engine
+    - Limited Scope
+    - Radically Open
+    - Incredibly Simple
 # Build It And They Will Come?
 - If Its Seismically Better
 - Through Protocol Labs

@@ -6,80 +6,96 @@
 - Monopolization
 - Inhibited Productivity
 - Stagnant Rankings
+    - New content buried under old.
 - Results Quality
 
 # Is It Possible?
-- Same Methods / Different Methods
+- ML vs ML + Human Enhanced
 
 # Building A Better Future With Search
 - Privacy
     - Complete / Anonymous / Selective / Public
 - Radical Ownership
     - Data Is Where You Want / You Own It
-        - Local / Self-Hosted (nextcloud) / Distributed Hosting (SOLID, Blockstack, Filecoin) / Our / Third Party (Google, Microsoft, Dropbox)  
+        - Local 
+        - Self-Hosted (nextcloud)
+        - Third Party (Google, Microsoft, Dropbox) 
+        - Phoebe
+        - Distributed Hosting (SOLID, Blockstack, Filecoin) 
 - Radically Open
-    - Data
     - Algorithms
+    - Index
 - Human Enhanced (Trust Network)
-    - Acquiring Trust
-        - Trust Granted By Trusted User
+    - Every user trusted
+    - Increasing Trust
+        - Verify Identity
+        - Verify Credentials
+        - Relationships
         - Contributions Over Time
-        - Verified Identity
-        - Verified Credentials
     - Mitigating Malicious Behavior
-        - Grantor gives proportional trust to Grantee
+        - Trust granted proportional to Grantors Trust Level
         - Grantor is penalized if Grantee misbehaves
             - Grantor/Grantee Relationship is Multi-Level
             - Grantor may be logarithmically penalized for trusting multiple malicious accounts
         - Trust Anchors
-        - Discourse / StackOverflow
+        - Discourse / StackOverflow - nix from presentation
     - Ensuring Equitable Ownership
-        - Diverse working group
-        - Actively seek
-        - Receive applications
-        - Integrate multiple perspectives
+        - Diverse Working Group (Solicit)
+        - Open Applications
     - Incentivation
         - IRL (StackOverflow)
         - Monetary (Quora)
         - Discovery (Reddit, Pinterest)
-        - Productivity Boosting
-            - Simple
+        - Productivity Boosting (Notion, Coda, Trello, Asana)
             - Customizable
                 - Just / Not These Sites
                 - Add/Edit/Remove/Reorder Sites
                 - Tagging
-                - Specific Sites as Preferred Results for Queries
+                - Preferred Sites for Queries
                 - Fresh Results (New To You)
-                - Trust User Impact on Results
-# Building An Even Better Future With Search
+
+# Building An Even Better Future With Search (Beyond MVP)
 - Local First
-    - Native Application/Extension - Makes it perfom better.
-    - Advanced Bookmarking, Highlighting, Annotations, Save for Later
-    - Explicit Permissions
+    - Native Application/Extension - Performance, Privacy
+        - Cache UI
+        - Store Data
+        - Cache Results
+            - Occasional sync
+    - Advanced Knowledge Management Tooling
+        - Lists (Save for Later, Topical)
+        - Highlights
+        - Annotations
+        - Research Grade Querying (regex)
     - Eventually Distributed (Opt-In)
-    - Cache Past Query Results
-    - Caching Search UI
-    - Sync Data to Expedite Queries
 - Relationships Between Content
     - Reduce Duplicates
     - Subsume Similar
     - Highlight Different
     - Quality of Content Improvements
 - E2E Encryption and ZK
-- Research Grade Querying
-    - Regular Expressions
 
 # Getting Started
 - Research & Publish
-    - Accessible and Reusable Standard for Assessing Search Engine Results Quality.
-    - Quantitative and Qualitative Measurements of Current SERQ of Google.
+    - Survey of Web Search History, Concepts, Research, and Tooling
+    - Reusable Diagnostic Standard for Assessing SERP Quality
+    - Assessment of Google's SERP Quality
+    - Guide to Building a Web Search Engine
 - MVP Search Engine
-    - Limited Scope
+    - Incredibly Simple (minimal UI, centralized to start)
+    - Not Comparing Index Sizes
     - Radically Open
-    - Incredibly Simple
+    - Human Enhanced
+
 # Build It And They Will Come?
-- If Its Seismically Better
+- If It Is Better (Enough)
+- If It Is Friction Free
 - Through Protocol Labs
 - Target Academic, Scientific, Technical Audiences
 - Build First, Then Distribute (lowers barrier to entry)
 
+# Opportunities for Overlap
+- IPFS ==> IPFS results first class citizens
+    - Want to run an IPFS node? One click
+- FileCoin ==> Want to run a node? One click
+- The Underlay ==> provenance data galor
+- zk-SNARKs ==> potential for better securing user privacy?

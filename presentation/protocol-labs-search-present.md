@@ -4,24 +4,25 @@
     - Ads
     - Organic
 - Monopolization
-- Inhibited Productivity
+- Results Relevance
 - Stagnant Rankings
     - New content buried under old.
-- Results Quality
+- Limited Perspective
+- Inhibited Productivity
 
 # Is It Possible?
-- ML vs ML + Human Enhanced
+- ML (Google, Bing, DuckDuckGo, Presearch)
 
 # Building A Better Future With Search
 - Privacy
     - Complete / Anonymous / Selective / Public
 - Radical Ownership
     - Data Is Where You Want / You Own It
-        - Local 
+        - Local  (user's device)
         - Self-Hosted (nextcloud)
         - Third Party (Google, Microsoft, Dropbox) 
         - Phoebe
-        - Distributed Hosting (SOLID, Blockstack, Filecoin) 
+        - Distributed Hosting (Filecoin, Solid, Blockstack) 
 - Radically Open
     - Algorithms
     - Index
@@ -98,4 +99,5 @@
     - Want to run an IPFS node? One click
 - FileCoin ==> Want to run a node? One click
 - The Underlay ==> provenance data galor
-- zk-SNARKs ==> potential for better securing user privacy?
+- SourceCred ==> Can we generalize to work with Phoebe?
+- zk-SNARKs ==> Can we improve user privacy?
